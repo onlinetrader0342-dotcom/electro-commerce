@@ -275,12 +275,15 @@ function normalizeCategory(m: MedusaCategory): StoreCategory {
 }
 
 async function medusaFetch<T>(path: string, tag: string): Promise<T> {
+  // NOTE: hard timeout — without it a sleeping/unreachable backend hangs page
+  // prerendering (Next.js kills pages after 60s) and runtime requests.
   const res = await fetch(`${MEDUSA_URL}${path}`, {
     headers: {
       "x-publishable-api-key": PUBLISHABLE_KEY,
       "Content-Type": "application/json",
     },
     next: { revalidate: REVALIDATE, tags: [tag] },
+    signal: AbortSignal.timeout(10000),
   });
   if (!res.ok) {
     throw new Error(`Medusa ${path} -> ${res.status}`);
