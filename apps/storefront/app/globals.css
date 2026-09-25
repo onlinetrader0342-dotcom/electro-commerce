@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  /* Brand: deep electric navy */
+  --color-brand-50: #eef4fc;
+  --color-brand-100: #d9e6f7;
+  --color-brand-200: #b3cdf0;
+  --color-brand-300: #84ade4;
+  --color-brand-400: #5589d4;
+  --color-brand-500: #356cbe;
+  --color-brand-600: #24569e;
+  --color-brand-700: #1a4480;
+  --color-brand-800: #12305c;
+  --color-brand-900: #0a1c38;
+  --color-brand-950: #060f22;
+
+  /* Accent: electric amber */
+  --color-accent-50: #fffbeb;
+  --color-accent-100: #fef3c7;
+  --color-accent-200: #fde68a;
+  --color-accent-300: #fcd34d;
+  --color-accent-400: #fbbf24;
+  --color-accent-500: #f59e0b;
+  --color-accent-600: #d97706;
+  --color-accent-700: #b45309;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white text-slate-800 antialiased;
+}
+
+::selection {
+  background: var(--color-accent-400);
+  color: var(--color-brand-950);
+}
+
+/* Thin scrollbars for horizontal chip rails */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Accessible focus ring */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--color-accent-500);
+  outline-offset: 2px;
+}
+
+/* Prose-ish defaults for CMS/static content pages */
+.rich-text h2 {
+  @apply mt-8 mb-3 text-2xl font-bold text-brand-900;
+}
+.rich-text h3 {
+  @apply mt-6 mb-2 text-xl font-semibold text-brand-900;
+}
+.rich-text p {
+  @apply mb-4 leading-relaxed text-slate-600;
+}
+.rich-text ul {
+  @apply mb-4 list-disc pl-6 text-slate-600;
+}
+.rich-text ol {
+  @apply mb-4 list-decimal pl-6 text-slate-600;
+}
+.rich-text li {
+  @apply mb-1;
+}
