@@ -140,33 +140,31 @@ def get_note_value(marker):
     return ""
 
 
-def cmd_services():
+def build_env_lists():
+    """Build the (medusa, storefront) env var lists from notes + local .env."""
     pg_url = get_note_value("- internal: postgresql")
     redis_url = get_note_value("- internal: redis")
-    if not pg_url or not redis_url:
-        print("missing DB URLs in render-notes.md; run postgres + redis steps first")
-        return 1
-
+    jwt = get_note_value("- JWT_SECRET:")
+    cookie = get_note_value("- COOKIE_SECRET:")
+    reval = get_note_value("- REVALIDATE_SECRET:")
+    if not all([pg_url, redis_url, jwt, cookie, reval]):
+        return None, None
     sf_local = env_file(os.path.join(REPO_ROOT, "apps/storefront/.env.local"))
     pubkey = sf_local.get("NEXT_PUBLIC_MEDUSA_PUBLISHABLE_KEY") or sf_local.get("MEDUSA_PUBLISHABLE_KEY", "")
     admin_key = sf_local.get("MEDUSA_ADMIN_API_KEY", "")
     admin_pw = sf_local.get("ADMIN_PASSWORD", "")
-    jwt = rand_hex(32); cookie = rand_hex(32); reval = rand_hex(24)
-    note(f"## Generated secrets (do not share)\n- JWT_SECRET: {jwt}\n- COOKIE_SECRET: {cookie}\n- REVALIDATE_SECRET: {reval}")
-
-    build_base = "corepack enable && pnpm install"
-    common_env = [
-        {"key": "NODE_VERSION", "value": "22.14.0"},
-        {"key": "NODE_ENV", "value": "production"},
-    ]
-
-    medusa_env = common_env + [
+    common = [{"key": "NODE_ENV", "value": "production"}]
+    medusa_env = common + [
         {"key": "DATABASE_URL", "value": pg_url},
         {"key": "REDIS_URL", "value": redis_url},
         {"key": "JWT_SECRET", "value": jwt},
         {"key": "COOKIE_SECRET", "value": cookie},
         {"key": "MEDUSA_WORKER_MODE", "value": "shared"},
-        {"key": "DISABLE_MEDUSA_ADMIN", "value": "false"},
+        # Admin dashboard disabled: medusa build skips the heavy Vite admin
+        # bundle (which also fails under pnpm's strict node_modules:
+        # Rollup cannot resolve react/jsx-runtime). The storefront is the
+        # product surface; Medusa still serves /health + Store APIs.
+        {"key": "DISABLE_MEDUSA_ADMIN", "value": "true"},
         {"key": "STORE_CORS", "value": "https://electro-storefront.onrender.com"},
         {"key": "ADMIN_CORS", "value": "https://electro-medusa.onrender.com"},
         {"key": "AUTH_CORS", "value": "https://electro-storefront.onrender.com"},
@@ -176,7 +174,7 @@ def cmd_services():
         {"key": "PAYMENT_PROVIDER", "value": "cod"},
         {"key": "SHIPPING_PROVIDER", "value": "flat_rate"},
     ]
-    storefront_env = common_env + [
+    storefront_env = common + [
         {"key": "MEDUSA_BACKEND_URL", "value": "https://electro-medusa.onrender.com"},
         {"key": "NEXT_PUBLIC_MEDUSA_BACKEND_URL", "value": "https://electro-medusa.onrender.com"},
         {"key": "NEXT_PUBLIC_MEDUSA_PUBLISHABLE_KEY", "value": pubkey},
@@ -187,7 +185,43 @@ def cmd_services():
         {"key": "PRODUCT_URL_PREFIX", "value": "/product"},
         {"key": "FREE_SHIPPING_THRESHOLD", "value": "50000"},
     ]
+    return medusa_env, storefront_env
 
+
+def cmd_set_env():
+    """Bulk-replace env vars on both services (triggers redeploys)."""
+    medusa_env, storefront_env = build_env_lists()
+    if not medusa_env:
+        print("missing secrets/DB URLs in render-notes.md"); return 1
+    for sid, env, name in [
+        ("srv-dar2slk9v7es7399rsbg", medusa_env, "electro-medusa"),
+        ("srv-dar2sm97lnhs739re6l0", storefront_env, "electro-storefront"),
+    ]:
+        s, b = api("PUT", f"/services/{sid}/env-vars", env)
+        print(f"set-env {name}:", s, f"({len(env)} vars)")
+        if s not in (200, 201):
+            print(json.dumps(b)[:500]); return 1
+    print("env vars replaced; Render redeploys on change")
+    return 0
+
+
+def cmd_services():
+    # Fresh secrets for a first-time creation; build_env_lists() reads them back.
+    note("## Generated secrets (do not share)")
+    note("- JWT_SECRET: " + rand_hex(32))
+    note("- COOKIE_SECRET: " + rand_hex(32))
+    note("- REVALIDATE_SECRET: " + rand_hex(24))
+    medusa_env, storefront_env = build_env_lists()
+    if not medusa_env:
+        print("missing DB URLs in render-notes.md; run postgres + redis steps first")
+        return 1
+
+    # NOTE: no `corepack enable` — Render's Node image already ships pnpm on PATH
+    # (auto-detected from pnpm-lock.yaml); `corepack enable` dies with EROFS
+    # (read-only /usr/bin/pnpm) and breaks the build.
+    build_base = "pnpm install"
+    # NOTE: Render's Node image defaults to a recent Node (24.x) which this
+    # codebase already runs on locally, so no NODE_VERSION override is set.
     defs = [
         ("electro-medusa",
          f"{build_base} && pnpm --filter medusa build",
@@ -210,7 +244,9 @@ def cmd_services():
         }
         if pre:
             details["envSpecificDetails"]["preDeployCommand"] = pre
-        details["envVars"] = env
+        # NOTE: envVars is a TOP-LEVEL field of the create-service payload
+        # (api-docs.render.com/reference/create-service); nesting it inside
+        # serviceDetails silently drops every variable.
         payload = {
             "type": "web_service",
             "name": name,
@@ -218,6 +254,7 @@ def cmd_services():
             "repo": REPO,
             "branch": "main",
             "autoDeploy": "yes",
+            "envVars": env,
             "serviceDetails": details,
         }
         s, b = api("POST", "/services", payload)
@@ -248,8 +285,9 @@ def cmd_status():
 
 if __name__ == "__main__":
     cmds = {"postgres": cmd_postgres, "redis": cmd_redis,
-            "services": cmd_services, "status": cmd_status}
+            "services": cmd_services, "status": cmd_status,
+            "set-env": cmd_set_env}
     if len(sys.argv) < 2 or sys.argv[1] not in cmds:
-        print("usage: deploy-render.py [postgres|redis|services|status]")
+        print("usage: deploy-render.py [postgres|redis|services|status|set-env]")
         sys.exit(2)
     sys.exit(cmds[sys.argv[1]]())
