@@ -1,0 +1,24 @@
+{
+  "description": "Production-ready, AI-ready e-commerce platform for electric products (Imran Electric Store)",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "name": "electro-commerce",
+  "packageManager": "pnpm@12.6.0",
+  "private": true,
+  "scripts": {
+    "build": "pnpm -r build",
+    "dev:infra": "docker compose up -d",
+    "dev:medusa": "pnpm --filter medusa dev",
+    "dev:storefront": "pnpm --filter storefront dev",
+    "feed:build": "pnpm --filter storefront feed:build",
+    "seed": "pnpm --filter medusa seed",
+    "typecheck": "pnpm -r typecheck"
+  },
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
