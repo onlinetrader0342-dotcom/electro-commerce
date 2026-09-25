@@ -34,7 +34,7 @@ export default async function Header() {
       {/* Top strip */}
       <div className="bg-brand-950 text-white">
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-1.5 text-xs">
-          <p className="truncate">
+          <p className="min-w-0 flex-1 truncate">
             Free delivery on orders over Rs 5,000 · Genuine products with warranty
           </p>
           <a href="tel:+923175953134" className="hidden shrink-0 font-semibold hover:underline sm:block">
