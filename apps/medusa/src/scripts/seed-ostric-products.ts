@@ -13,8 +13,7 @@
  * Rs 1,670 = 167000. The JSON holds major units; we multiply by 100 here.
  */
 import { readFileSync } from "fs";
-import { join, dirname } from "path";
-import { fileURLToPath } from "url";
+import { join } from "path";
 
 const BACKEND = (process.env.MEDUSA_BACKEND_URL ?? "http://localhost:9000").replace(/\/$/, "");
 const EMAIL = process.env.MEDUSA_ADMIN_EMAIL;
@@ -45,7 +44,7 @@ interface OstricProduct {
   tags: string[];
 }
 
-const HERE = dirname(fileURLToPath(import.meta.url));
+const HERE = __dirname;
 const PRODUCTS: OstricProduct[] = JSON.parse(
   readFileSync(join(HERE, "ostric-products.json"), "utf8"),
 );
