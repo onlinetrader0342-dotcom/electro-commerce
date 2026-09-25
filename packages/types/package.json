@@ -1,0 +1,1 @@
+{"description":"Shared TypeScript DTOs for the electro-commerce monorepo","exports":{".":"./src/index.ts"},"license":"UNLICENSED","main":"./src/index.ts","name":"@electro-commerce/types","private":true,"scripts":{"build":"tsc -p tsconfig.json","typecheck":"tsc --noEmit -p tsconfig.json"},"types":"./src/index.ts","version":"0.1.0"}
