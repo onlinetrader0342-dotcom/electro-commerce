@@ -1,1 +1,1 @@
-{"dependencies":{"cors":"^2.8.5","express":"^4.18.2","pg":"^8.11.3"},"description":"Lightweight Medusa Store API compatible backend for electro-commerce","main":"server.js","name":"electro-api","scripts":{"start":"node server.js"},"version":"1.0.0"}
+{"description":"Lightweight Medusa Store API compatible backend for electro-commerce (zero dependencies)","main":"server.js","name":"electro-api","scripts":{"start":"node server.js"},"version":"1.0.0"}
