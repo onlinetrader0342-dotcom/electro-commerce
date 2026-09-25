@@ -1,0 +1,317 @@
+[
+ {
+  "id": "pcat_01M3BRCRPTTB4XSZH329P7V41K",
+  "name": "Ceiling Fans",
+  "handle": "ceiling-fans",
+  "description": "Energy-saving ceiling fans.",
+  "parent_category_id": "pcat_01M3BRCRNP4AY19WFMK7KTB8PK",
+  "metadata": null,
+  "rank": 0
+ },
+ {
+  "id": "pcat_01M3BRCRC0KCFKA7AVK1TC72EQ",
+  "name": "Inverters",
+  "handle": "inverters",
+  "description": "Solar, hybrid and on-grid inverters for home and commercial use.",
+  "parent_category_id": null,
+  "metadata": null,
+  "rank": 0
+ },
+ {
+  "id": "pcat_01M3BRCRK5JKN8Q2XQ83872CA8",
+  "name": "LED Bulbs",
+  "handle": "led-bulbs",
+  "description": "LED bulbs in multiple wattages.",
+  "parent_category_id": "pcat_01M3BRCRJA84VM7HQ0H8SA0SH2",
+  "metadata": null,
+  "rank": 0
+ },
+ {
+  "id": "pcat_01M3BSWJV4Q4CSFFVS0RZMHGG0",
+  "name": "Ostric SMD Down Lights",
+  "handle": "ostric-smd-down-lights",
+  "description": "Ostric Ostric SMD Down Lights — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 0
+ },
+ {
+  "id": "pcat_01M3BRCREHW76GQX55FFJM8GZH",
+  "name": "Solar Inverters",
+  "handle": "solar-inverters",
+  "description": "On-grid and off-grid solar inverters.",
+  "parent_category_id": "pcat_01M3BRCRC0KCFKA7AVK1TC72EQ",
+  "metadata": null,
+  "rank": 0
+ },
+ {
+  "id": "pcat_01M3BRCRKXJXNMR5FX7G1ZRJJS",
+  "name": "Flood Lights",
+  "handle": "flood-lights",
+  "description": "Outdoor LED flood lights.",
+  "parent_category_id": "pcat_01M3BRCRJA84VM7HQ0H8SA0SH2",
+  "metadata": null,
+  "rank": 1
+ },
+ {
+  "id": "pcat_01M3BRCRFS8AAT3BJRS8MC32XC",
+  "name": "Hybrid Inverters",
+  "handle": "hybrid-inverters",
+  "description": "Hybrid inverters with solar + grid + battery support.",
+  "parent_category_id": "pcat_01M3BRCRC0KCFKA7AVK1TC72EQ",
+  "metadata": null,
+  "rank": 1
+ },
+ {
+  "id": "pcat_01M3BSWJW8GBCQ6HPK9J2WK6HY",
+  "name": "Ostric Frameless Panels",
+  "handle": "ostric-frameless-panels",
+  "description": "Ostric Ostric Frameless Panels — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 1
+ },
+ {
+  "id": "pcat_01M3BRCRQJ98VJPSNNE4995K00",
+  "name": "Pedestal Fans",
+  "handle": "pedestal-fans",
+  "description": "Pedestal and stand fans.",
+  "parent_category_id": "pcat_01M3BRCRNP4AY19WFMK7KTB8PK",
+  "metadata": null,
+  "rank": 1
+ },
+ {
+  "id": "pcat_01M3BRCRGRGHEYAD2Y1PH1N1PM",
+  "name": "Solar Panels",
+  "handle": "solar-panels",
+  "description": "Mono PERC and N-type solar panels.",
+  "parent_category_id": null,
+  "metadata": null,
+  "rank": 1
+ },
+ {
+  "id": "pcat_01M3BRCRHJHH4TGW6MXDN6GCC5",
+  "name": "Batteries",
+  "handle": "batteries",
+  "description": "Tubular, lead-acid and lithium batteries for backup power.",
+  "parent_category_id": null,
+  "metadata": null,
+  "rank": 2
+ },
+ {
+  "id": "pcat_01M3BSWJXJJ6820DHHQXNCRBRC",
+  "name": "Ostric Backlit Panels",
+  "handle": "ostric-backlit-panels",
+  "description": "Ostric Ostric Backlit Panels — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 2
+ },
+ {
+  "id": "pcat_01M3BRCRMSDK4WW54E2WK4VBKT",
+  "name": "Street Lights",
+  "handle": "street-lights",
+  "description": "LED street and area lights.",
+  "parent_category_id": "pcat_01M3BRCRJA84VM7HQ0H8SA0SH2",
+  "metadata": null,
+  "rank": 2
+ },
+ {
+  "id": "pcat_01M3BRCRJA84VM7HQ0H8SA0SH2",
+  "name": "LED Lights",
+  "handle": "led-lights",
+  "description": "Energy-efficient LED lighting for every need.",
+  "parent_category_id": null,
+  "metadata": null,
+  "rank": 3
+ },
+ {
+  "id": "pcat_01M3BSWJYP956GY6DS5Y9RDSSH",
+  "name": "Ostric COB Down Lights",
+  "handle": "ostric-cob-down-lights",
+  "description": "Ostric Ostric COB Down Lights — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 3
+ },
+ {
+  "id": "pcat_01M3BRCRNP4AY19WFMK7KTB8PK",
+  "name": "Fans",
+  "handle": "fans",
+  "description": "Ceiling, pedestal and bracket fans.",
+  "parent_category_id": null,
+  "metadata": null,
+  "rank": 4
+ },
+ {
+  "id": "pcat_01M3BSWJZYZ77H1A9X8BF1S4KF",
+  "name": "Ostric Grid Lights",
+  "handle": "ostric-grid-lights",
+  "description": "Ostric Ostric Grid Lights — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 4
+ },
+ {
+  "id": "pcat_01M3BSWK1F8M8EPH2C0NRSRT2N",
+  "name": "Ostric Laser Blade Lights",
+  "handle": "ostric-laser-blade-lights",
+  "description": "Ostric Ostric Laser Blade Lights — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 5
+ },
+ {
+  "id": "pcat_01M3BRCRRCG5M7YKEG1JRX1PAJ",
+  "name": "Switches",
+  "handle": "switches",
+  "description": "Switch plates, sockets and smart switches.",
+  "parent_category_id": null,
+  "metadata": null,
+  "rank": 5
+ },
+ {
+  "id": "pcat_01M3BRCRS20HMQ52KC84PQYE90",
+  "name": "Electrical Accessories",
+  "handle": "electrical-accessories",
+  "description": "Wires, breakers, distribution boxes and fittings.",
+  "parent_category_id": null,
+  "metadata": null,
+  "rank": 6
+ },
+ {
+  "id": "pcat_01M3BSWK3F96CRK6634916MT9P",
+  "name": "Ostric Surface Lights",
+  "handle": "ostric-surface-lights",
+  "description": "Ostric Ostric Surface Lights — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 6
+ },
+ {
+  "id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "name": "Ostric",
+  "handle": "ostric",
+  "description": "Ostric LED lighting — official June 2026 price list. Energy-efficient LED lights for homes, shops and industry.",
+  "parent_category_id": null,
+  "metadata": null,
+  "rank": 7
+ },
+ {
+  "id": "pcat_01M3BSWK4JFKEZMGY424X2FNWF",
+  "name": "Ostric Track Lights",
+  "handle": "ostric-track-lights",
+  "description": "Ostric Ostric Track Lights — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 7
+ },
+ {
+  "id": "pcat_01M3BSWK799J4EZ16Y2EHEMHFG",
+  "name": "Ostric LED Bulbs",
+  "handle": "ostric-led-bulbs",
+  "description": "Ostric Ostric LED Bulbs — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 8
+ },
+ {
+  "id": "pcat_01M3BSWK8NYX6WBJN10FTCBZNE",
+  "name": "Ostric Batten Lights (Metal)",
+  "handle": "ostric-batten-lights-metal",
+  "description": "Ostric Ostric Batten Lights (Metal) — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 9
+ },
+ {
+  "id": "pcat_01M3BSWK9PGZG7A55V8TKRF8ZQ",
+  "name": "Ostric Batten Lights (PC)",
+  "handle": "ostric-batten-lights-pc",
+  "description": "Ostric Ostric Batten Lights (PC) — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 10
+ },
+ {
+  "id": "pcat_01M3BSWKBQ30GPD8KXQYH04PGK",
+  "name": "Ostric Flood Lights",
+  "handle": "ostric-flood-lights",
+  "description": "Ostric Ostric Flood Lights — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 11
+ },
+ {
+  "id": "pcat_01M3BSWKCR46FEZ3EWAHVCZTYX",
+  "name": "Ostric Mini Flood Lights",
+  "handle": "ostric-mini-flood-lights",
+  "description": "Ostric Ostric Mini Flood Lights — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 12
+ },
+ {
+  "id": "pcat_01M3BSWKDS3T7E95AD6YBHGF27",
+  "name": "Ostric Street Lights",
+  "handle": "ostric-street-lights",
+  "description": "Ostric Ostric Street Lights — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 13
+ },
+ {
+  "id": "pcat_01M3BSWKFTCWD79TTPN4AXM3ZK",
+  "name": "Ostric Highbay Lights",
+  "handle": "ostric-highbay-lights",
+  "description": "Ostric Ostric Highbay Lights — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 14
+ },
+ {
+  "id": "pcat_01M3BSWKGQAPBXS2Z5WN9WES4Y",
+  "name": "Ostric Garden Lights",
+  "handle": "ostric-garden-lights",
+  "description": "Ostric Ostric Garden Lights — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 15
+ },
+ {
+  "id": "pcat_01M3BSWKHXT1WWFXFGEBHEM0B8",
+  "name": "Ostric Pool & Fountain Lights",
+  "handle": "ostric-pool-fountain-lights",
+  "description": "Ostric Ostric Pool & Fountain Lights — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 16
+ },
+ {
+  "id": "pcat_01M3BSWKJTGJF18AF3AQTN82ZC",
+  "name": "Ostric Linear & Profile Lights",
+  "handle": "ostric-linear-profile-lights",
+  "description": "Ostric Ostric Linear & Profile Lights — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 17
+ },
+ {
+  "id": "pcat_01M3BSWKKSS6TN9QE7SRNH1XJJ",
+  "name": "Ostric LED Drivers",
+  "handle": "ostric-led-drivers",
+  "description": "Ostric Ostric LED Drivers — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 18
+ },
+ {
+  "id": "pcat_01M3BSWKN6C7JTVREHASZZ4B35",
+  "name": "Ostric Special Discounts",
+  "handle": "ostric-special-discounts",
+  "description": "Ostric Ostric Special Discounts — official June 2026 price list.",
+  "parent_category_id": "pcat_01M3BSWJSB0QEV7HZBQBKG6YWB",
+  "metadata": null,
+  "rank": 19
+ }
+]
