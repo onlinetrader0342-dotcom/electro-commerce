@@ -1,0 +1,3972 @@
+[
+ {
+  "id": "prod_01M3BRWFEM9Z9ZS1XKHHPYQJ7K",
+  "title": "AirFlow 18\" Pedestal Fan",
+  "handle": "airflow-18-pedestal-fan",
+  "subtitle": "18-inch pedestal fan with height adjustment and oscillation.",
+  "description": "18-inch pedestal fan with adjustable height, 90° oscillation and three speed settings. Sturdy base keeps it stable at full speed — ideal for shops and large rooms.",
+  "thumbnail": null,
+  "metadata": {
+   "brand": "AirFlow",
+   "model": "AF-18PD",
+   "warranty": "1 year motor warranty",
+   "weight_kg": 6.8,
+   "specifications": {
+    "Height": "Adjustable 110–135 cm",
+    "Speeds": "3",
+    "Blade size": "18\"",
+    "Oscillation": "90°"
+   }
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BRWFG077WMSZYJ1F2GJPNA",
+    "title": "Default",
+    "sku": "AF-18-PD",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 0,
+    "calculated_price": {
+     "calculated_amount": 890000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BRCRQJ98VJPSNNE4995K00",
+    "name": "Pedestal Fans",
+    "handle": "pedestal-fans"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BRWF8998XAQJJ2TYQQBBEM",
+  "title": "AirFlow 56\" Copper Ceiling Fan",
+  "handle": "airflow-56-copper-ceiling-fan",
+  "subtitle": "56-inch 99.99% copper winding ceiling fan — strong air delivery, low noise.",
+  "description": "AirFlow 56-inch ceiling fan with pure copper winding motor for stronger air throw and lower electricity use. Aerodynamic blades keep noise down even at full speed.",
+  "thumbnail": null,
+  "metadata": {
+   "brand": "AirFlow",
+   "model": "AF-56CU",
+   "warranty": "2 years motor warranty",
+   "weight_kg": 7.5,
+   "specifications": {
+    "Motor": "99.99% copper winding",
+    "Power": "75 W",
+    "Speed": "330 RPM",
+    "Sweep": "56\"",
+    "Air delivery": "230 CMM"
+   }
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BRWF9NCSBJRAC9AXPJ2188",
+    "title": "Default",
+    "sku": "AF-56-CU",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 0,
+    "calculated_price": {
+     "calculated_amount": 1250000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BRCRPTTB4XSZH329P7V41K",
+    "name": "Ceiling Fans",
+    "handle": "ceiling-fans"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BRWE7SBW29H0BVT718PRBE",
+  "title": "BrightLite 100W LED Street Light",
+  "handle": "brightlite-100w-led-street-light",
+  "subtitle": "100W LED street light with pole-mount arm for roads and housing societies.",
+  "description": "100W LED street light with adjustable pole-mount arm and IP66 protection. Designed for streets, housing societies, factories and commercial plazas.",
+  "thumbnail": null,
+  "metadata": {
+   "brand": "BrightLite",
+   "model": "BL-SL100-IP66",
+   "warranty": "2 years official warranty",
+   "weight_kg": 4.2,
+   "specifications": {
+    "Lumens": "11,000 lm",
+    "Wattage": "100 W",
+    "Mounting": "Pole arm (60mm)",
+    "Protection": "IP66 weatherproof"
+   }
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BRWEBEYBS7Q76QT3KT5XYS",
+    "title": "Default",
+    "sku": "BL-SL-100W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 0,
+    "calculated_price": {
+     "calculated_amount": 1480000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BRCRMSDK4WW54E2WK4VBKT",
+    "name": "Street Lights",
+    "handle": "street-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BRWDK6G7AEDTG406XACJHB",
+  "title": "BrightLite 12W LED Bulb — Pack of 4",
+  "handle": "brightlite-12w-led-bulb-pack-of-4",
+  "subtitle": "Pack of four 12W LED bulbs — bright white light, 85% energy saving.",
+  "description": "Four BrightLite 12W LED bulbs (E27 screw base). Each bulb replaces a 100W incandescent while using 85% less electricity, with a cool daylight glow suited to Pakistani homes.",
+  "thumbnail": null,
+  "metadata": {
+   "brand": "BrightLite",
+   "model": "BL-12W-E27",
+   "warranty": "1 year replacement warranty",
+   "weight_kg": 0.4,
+   "list_price_pkr": 1850,
+   "specifications": {
+    "Base": "E27",
+    "Lumens": "1200 lm",
+    "Wattage": "12 W",
+    "Lifespan": "25,000 hours",
+    "Color temperature": "6500 K (daylight)"
+   }
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BRWDSPH8QTNGMA1SRD2GEK",
+    "title": "Default",
+    "sku": "BL-12W-4PK",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 0,
+    "calculated_price": {
+     "calculated_amount": 165000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BRCRK5JKN8Q2XQ83872CA8",
+    "name": "LED Bulbs",
+    "handle": "led-bulbs"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BRWE16D8X3ABWKXV0EVHPQ",
+  "title": "BrightLite 50W LED Flood Light",
+  "handle": "brightlite-50w-led-flood-light",
+  "subtitle": "50W IP66 outdoor LED flood light for boundary walls and shops.",
+  "description": "IP66 weatherproof 50W LED flood light with die-cast aluminium housing. Bright, even illumination for boundary walls, shop signboards, parking areas and farms.",
+  "thumbnail": null,
+  "metadata": {
+   "brand": "BrightLite",
+   "model": "BL-FL50-IP66",
+   "warranty": "2 years official warranty",
+   "weight_kg": 1.8,
+   "specifications": {
+    "Lumens": "5000 lm",
+    "Housing": "Die-cast aluminium",
+    "Wattage": "50 W",
+    "Protection": "IP66 weatherproof"
+   }
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BRWE2YF0AEGW9CGVVYJDR1",
+    "title": "Default",
+    "sku": "BL-FL-50W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 0,
+    "calculated_price": {
+     "calculated_amount": 620000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BRCRKXJXNMR5FX7G1ZRJJS",
+    "name": "Flood Lights",
+    "handle": "flood-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BRWCEF77EKDECHQ19N15S3",
+  "title": "Osaka TR-1800 Tall Tubular Battery 185Ah",
+  "handle": "osaka-tr-1800-tall-tubular-battery",
+  "subtitle": "185Ah tall tubular battery for inverters and UPS — deep cycle, long backup.",
+  "description": "Osaka TR-1800 tall tubular battery with 185Ah capacity. Deep-cycle tubular plates give longer backup and a longer service life than ordinary batteries — the standard choice for home UPS and inverter systems.",
+  "thumbnail": null,
+  "metadata": {
+   "brand": "Osaka",
+   "model": "TR-1800",
+   "warranty": "2 years replacement warranty",
+   "weight_kg": 62,
+   "specifications": {
+    "Type": "Tall tubular, deep cycle",
+    "Voltage": "12 V",
+    "Capacity": "185 Ah",
+    "Backup (typical)": "6–8 hours (2 fans + 4 lights)"
+   }
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BRWCG6YGZRF4ZFBBR2HZWD",
+    "title": "Default",
+    "sku": "OSK-TR1800",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 0,
+    "calculated_price": {
+     "calculated_amount": 6250000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BRCRHJHH4TGW6MXDN6GCC5",
+    "name": "Batteries",
+    "handle": "batteries"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX1FJTC9VP90ES02PB428",
+  "title": "Ostric LED Driver 100W",
+  "handle": "ostric-led-driver-100w",
+  "subtitle": "Ostric LED Driver 100W — LED Driver 100W",
+  "description": "Ostric LED Driver 100W — Ostric LED Drivers. Specifications: LED Driver 100W.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "LED Driver 100W",
+   "wattage": "100W",
+   "price_list": "Ostric June 2026",
+   "specifications": "LED Driver 100W"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX1GZB5KX1HMQJZW7HHS3",
+    "title": "Default",
+    "sku": "LEDDRIVER100W-100W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 205000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKKSS6TN9QE7SRNH1XJJ",
+    "name": "Ostric LED Drivers",
+    "handle": "ostric-led-drivers"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX1KSRH3HGWC9RXPE9Z5A",
+  "title": "Ostric LED Driver 150W",
+  "handle": "ostric-led-driver-150w",
+  "subtitle": "Ostric LED Driver 150W — LED Driver 150W",
+  "description": "Ostric LED Driver 150W — Ostric LED Drivers. Specifications: LED Driver 150W.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "LED Driver 150W",
+   "wattage": "150W",
+   "price_list": "Ostric June 2026",
+   "specifications": "LED Driver 150W"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX1MTDWDN272XKJ7WYDT3",
+    "title": "Default",
+    "sku": "LEDDRIVER150W-150W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 228000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKKSS6TN9QE7SRNH1XJJ",
+    "name": "Ostric LED Drivers",
+    "handle": "ostric-led-drivers"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX1RBSWDQYJY1P3VZ7Q0K",
+  "title": "Ostric LED Driver 200W",
+  "handle": "ostric-led-driver-200w",
+  "subtitle": "Ostric LED Driver 200W — LED Driver 200W",
+  "description": "Ostric LED Driver 200W — Ostric LED Drivers. Specifications: LED Driver 200W.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "LED Driver 200W",
+   "wattage": "200W",
+   "price_list": "Ostric June 2026",
+   "specifications": "LED Driver 200W"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX1SBYBKR6B5BKFW3KQKH",
+    "title": "Default",
+    "sku": "LEDDRIVER200W-200W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 285000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKKSS6TN9QE7SRNH1XJJ",
+    "name": "Ostric LED Drivers",
+    "handle": "ostric-led-drivers"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX0RRVFCHNXPTV1T3BEE1",
+  "title": "Ostric LED Driver 24W",
+  "handle": "ostric-led-driver-24w",
+  "subtitle": "Ostric LED Driver 24W — LED Driver 24W",
+  "description": "Ostric LED Driver 24W — Ostric LED Drivers. Specifications: LED Driver 24W.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "LED Driver 24W",
+   "wattage": "24W",
+   "price_list": "Ostric June 2026",
+   "specifications": "LED Driver 24W"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX0SQGJY4JGB9VA9RYXV5",
+    "title": "Default",
+    "sku": "LEDDRIVER24W-24W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 80000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKKSS6TN9QE7SRNH1XJJ",
+    "name": "Ostric LED Drivers",
+    "handle": "ostric-led-drivers"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX1WNW2K8CDKZ4SZMYX2V",
+  "title": "Ostric LED Driver 300W",
+  "handle": "ostric-led-driver-300w",
+  "subtitle": "Ostric LED Driver 300W — LED Driver 300W",
+  "description": "Ostric LED Driver 300W — Ostric LED Drivers. Specifications: LED Driver 300W.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "LED Driver 300W",
+   "wattage": "300W",
+   "price_list": "Ostric June 2026",
+   "specifications": "LED Driver 300W"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX1XMEKE87CSNXAG3KWN5",
+    "title": "Default",
+    "sku": "LEDDRIVER300W-300W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 398000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKKSS6TN9QE7SRNH1XJJ",
+    "name": "Ostric LED Drivers",
+    "handle": "ostric-led-drivers"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX20WW8CPARA1AFM52RHW",
+  "title": "Ostric LED Driver 400W",
+  "handle": "ostric-led-driver-400w",
+  "subtitle": "Ostric LED Driver 400W — LED Driver 400W",
+  "description": "Ostric LED Driver 400W — Ostric LED Drivers. Specifications: LED Driver 400W.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "LED Driver 400W",
+   "wattage": "400W",
+   "price_list": "Ostric June 2026",
+   "specifications": "LED Driver 400W"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX21WYXRKGY2M9R3TH922",
+    "title": "Default",
+    "sku": "LEDDRIVER400W-400W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 455000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKKSS6TN9QE7SRNH1XJJ",
+    "name": "Ostric LED Drivers",
+    "handle": "ostric-led-drivers"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX0WW1EQRFR4NB13TZQ15",
+  "title": "Ostric LED Driver 48W",
+  "handle": "ostric-led-driver-48w",
+  "subtitle": "Ostric LED Driver 48W — LED Driver 48W",
+  "description": "Ostric LED Driver 48W — Ostric LED Drivers. Specifications: LED Driver 48W.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "LED Driver 48W",
+   "wattage": "48W",
+   "price_list": "Ostric June 2026",
+   "specifications": "LED Driver 48W"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX0XWV12XYM5641GJPDAC",
+    "title": "Default",
+    "sku": "LEDDRIVER48W-48W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 113000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKKSS6TN9QE7SRNH1XJJ",
+    "name": "Ostric LED Drivers",
+    "handle": "ostric-led-drivers"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX1154X8XXGJPAFPPP108",
+  "title": "Ostric LED Driver 60W",
+  "handle": "ostric-led-driver-60w",
+  "subtitle": "Ostric LED Driver 60W — LED Driver 60W",
+  "description": "Ostric LED Driver 60W — Ostric LED Drivers. Specifications: LED Driver 60W.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "LED Driver 60W",
+   "wattage": "60W",
+   "price_list": "Ostric June 2026",
+   "specifications": "LED Driver 60W"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX12KDV1YQFT9ARNN0AAJ",
+    "title": "Default",
+    "sku": "LEDDRIVER60W-60W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 135000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKKSS6TN9QE7SRNH1XJJ",
+    "name": "Ostric LED Drivers",
+    "handle": "ostric-led-drivers"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX16VPAZZ9JKM25Y332KX",
+  "title": "Ostric LED Driver 72W",
+  "handle": "ostric-led-driver-72w",
+  "subtitle": "Ostric LED Driver 72W — LED Driver 72W",
+  "description": "Ostric LED Driver 72W — Ostric LED Drivers. Specifications: LED Driver 72W.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "LED Driver 72W",
+   "wattage": "72W",
+   "price_list": "Ostric June 2026",
+   "specifications": "LED Driver 72W"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX18CYA6DEGQK748CSQZ4",
+    "title": "Default",
+    "sku": "LEDDRIVER72W-72W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 170000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKKSS6TN9QE7SRNH1XJJ",
+    "name": "Ostric LED Drivers",
+    "handle": "ostric-led-drivers"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX1BN07YG74M2HJ9KYX3B",
+  "title": "Ostric LED Driver 85W",
+  "handle": "ostric-led-driver-85w",
+  "subtitle": "Ostric LED Driver 85W — LED Driver 85W",
+  "description": "Ostric LED Driver 85W — Ostric LED Drivers. Specifications: LED Driver 85W.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "LED Driver 85W",
+   "wattage": "85W",
+   "price_list": "Ostric June 2026",
+   "specifications": "LED Driver 85W"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX1CKXD31M3FVRDQ2TG42",
+    "title": "Default",
+    "sku": "LEDDRIVER85W-85W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 193000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKKSS6TN9QE7SRNH1XJJ",
+    "name": "Ostric LED Drivers",
+    "handle": "ostric-led-drivers"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX25SPE93TNWN0Q885VSB",
+  "title": "Ostric LM-DL16 Down Light 12W Special Offer (4 Inch)",
+  "handle": "ostric-lm-dl16-down-light-12w-special-offer-4-inch",
+  "subtitle": "Ostric LM-DL16 Down Light 12W — 12W",
+  "description": "Ostric LM-DL16 Down Light — Ostric Special Discounts. Aluminum Body. Specifications: 12W · 4 Inch · 6500K · 1x50 Pcs. SPECIAL DISCOUNTED NET PRICE — no further discount applicable.",
+  "thumbnail": null,
+  "metadata": {
+   "note": "Special discounted net price — no further discount.",
+   "size": "4 Inch",
+   "brand": "Ostric",
+   "article": "LM-DL16 Down Light",
+   "wattage": "12W",
+   "net_price": true,
+   "price_list": "Ostric June 2026",
+   "specifications": "12W · 4 Inch · 6500K · 1x50 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX26RBENB98RT0V3F8CW2",
+    "title": "Default",
+    "sku": "LMDL16DOWNLIGHT-12W-4INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 18000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKN6C7JTVREHASZZ4B35",
+    "name": "Ostric Special Discounts",
+    "handle": "ostric-special-discounts"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX2N0XGMJ41MZWS5EGJP3",
+  "title": "Ostric LM-GD 109 Track Light 20W Special Offer",
+  "handle": "ostric-lm-gd-109-track-light-20w-special-offer",
+  "subtitle": "Ostric LM-GD 109 Track Light 20W — 20W",
+  "description": "Ostric LM-GD 109 Track Light — Ostric Special Discounts. Aluminum Body. Specifications: 20W · 3000K · 1x20 Pcs · Black & White. SPECIAL DISCOUNTED NET PRICE — no further discount applicable.",
+  "thumbnail": null,
+  "metadata": {
+   "note": "Special discounted net price — no further discount.",
+   "size": null,
+   "brand": "Ostric",
+   "article": "LM-GD 109 Track Light",
+   "wattage": "20W",
+   "net_price": true,
+   "price_list": "Ostric June 2026",
+   "specifications": "20W · 3000K · 1x20 Pcs · Black & White"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX2PAX8GSV47Y3Y5ANEH5",
+    "title": "Default",
+    "sku": "LMGD109TRACKLIGHT-20W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 95000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKN6C7JTVREHASZZ4B35",
+    "name": "Ostric Special Discounts",
+    "handle": "ostric-special-discounts"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX2DXC47871EJZFK0QGDD",
+  "title": "Ostric LM-T5 RT 14 Batten Light 14W Special Offer (2 Ft)",
+  "handle": "ostric-lm-t5-rt-14-batten-light-14w-special-offer-2-ft",
+  "subtitle": "Ostric LM-T5 RT 14 Batten Light 14W — 14W",
+  "description": "Ostric LM-T5 RT 14 Batten Light — Ostric Special Discounts. Aluminum Body. Specifications: 14W · 2Ft · 3 IN 1 · 1x30 Pcs. SPECIAL DISCOUNTED NET PRICE — no further discount applicable.",
+  "thumbnail": null,
+  "metadata": {
+   "note": "Special discounted net price — no further discount.",
+   "size": "2 Ft",
+   "brand": "Ostric",
+   "article": "LM-T5 RT 14 Batten Light",
+   "wattage": "14W",
+   "net_price": true,
+   "price_list": "Ostric June 2026",
+   "specifications": "14W · 2Ft · 3 IN 1 · 1x30 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX2F2F3K7G6TREQ092CXW",
+    "title": "Default",
+    "sku": "LMT5RT14BATTENLIGHT-14W-2FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 80000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKN6C7JTVREHASZZ4B35",
+    "name": "Ostric Special Discounts",
+    "handle": "ostric-special-discounts"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX2HN7HK3YKY8FWGN8G31",
+  "title": "Ostric LM-T5 RT 14 Batten Light 28W Special Offer (4 Ft)",
+  "handle": "ostric-lm-t5-rt-14-batten-light-28w-special-offer-4-ft",
+  "subtitle": "Ostric LM-T5 RT 14 Batten Light 28W — 28W",
+  "description": "Ostric LM-T5 RT 14 Batten Light — Ostric Special Discounts. Aluminum Body. Specifications: 28W · 4Ft · 3 IN 1 · 1x30 Pcs. SPECIAL DISCOUNTED NET PRICE — no further discount applicable.",
+  "thumbnail": null,
+  "metadata": {
+   "note": "Special discounted net price — no further discount.",
+   "size": "4 Ft",
+   "brand": "Ostric",
+   "article": "LM-T5 RT 14 Batten Light",
+   "wattage": "28W",
+   "net_price": true,
+   "price_list": "Ostric June 2026",
+   "specifications": "28W · 4Ft · 3 IN 1 · 1x30 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX2JM2DM44DFF4M06JJ04",
+    "title": "Default",
+    "sku": "LMT5RT14BATTENLIGHT-28W-4FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 120000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKN6C7JTVREHASZZ4B35",
+    "name": "Ostric Special Discounts",
+    "handle": "ostric-special-discounts"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX2SB2NAK174CF462M7QB",
+  "title": "Ostric OST FL-009 Flood Light 100W Special Offer",
+  "handle": "ostric-ost-fl-009-flood-light-100w-special-offer",
+  "subtitle": "Ostric OST FL-009 Flood Light 100W — 100W",
+  "description": "Ostric OST FL-009 Flood Light — Ostric Special Discounts. Aluminum · IP66 · P.F 0.9. Specifications: 100W · 3000K, 6500K · 1x6 Pcs. SPECIAL DISCOUNTED NET PRICE — no further discount applicable.",
+  "thumbnail": null,
+  "metadata": {
+   "note": "Special discounted net price — no further discount.",
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST FL-009 Flood Light",
+   "wattage": "100W",
+   "net_price": true,
+   "price_list": "Ostric June 2026",
+   "specifications": "100W · 3000K, 6500K · 1x6 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX2TS1E3RG8R506C82WQ7",
+    "title": "Default",
+    "sku": "OSTFL009FLOODLIGHT-100W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 450000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKN6C7JTVREHASZZ4B35",
+    "name": "Ostric Special Discounts",
+    "handle": "ostric-special-discounts"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX2YBR6AE3VBXE24WSQBS",
+  "title": "Ostric OST HBS Highbay Light 100W Special Offer",
+  "handle": "ostric-ost-hbs-highbay-light-100w-special-offer",
+  "subtitle": "Ostric OST HBS Highbay Light 100W — 100W",
+  "description": "Ostric OST HBS Highbay Light — Ostric Special Discounts. Aluminum · P.F 0.9. Specifications: 100W · 6500K · 1x1 Pcs. SPECIAL DISCOUNTED NET PRICE — no further discount applicable.",
+  "thumbnail": null,
+  "metadata": {
+   "note": "Special discounted net price — no further discount.",
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST HBS Highbay Light",
+   "wattage": "100W",
+   "net_price": true,
+   "price_list": "Ostric June 2026",
+   "specifications": "100W · 6500K · 1x1 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX2ZE3TG4Q6F13Q21MS4J",
+    "title": "Default",
+    "sku": "OSTHBSHIGHBAYLIGHT-100W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 550000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKN6C7JTVREHASZZ4B35",
+    "name": "Ostric Special Discounts",
+    "handle": "ostric-special-discounts"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWSSBRRNSZNB946WY6GZJ",
+  "title": "Ostric OST-BL-18W LED Bulb",
+  "handle": "ostric-ost-bl-18w-led-bulb",
+  "subtitle": "Ostric OST-BL-18W — 18W",
+  "description": "Ostric OST-BL-18W — Ostric LED Bulbs. Specifications: 18W · A-80 · E27 / B22 · 3000K, 6500K · 1x50 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-BL-18W",
+   "wattage": "18W",
+   "price_list": "Ostric June 2026",
+   "specifications": "18W · A-80 · E27 / B22 · 3000K, 6500K · 1x50 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWSTK1WN6Z5JBV2RNV3XC",
+    "title": "Default",
+    "sku": "OSTBL18W-18W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 25000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK799J4EZ16Y2EHEMHFG",
+    "name": "Ostric LED Bulbs",
+    "handle": "ostric-led-bulbs"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWSXTVE1NC5GSSVYDPWNJ",
+  "title": "Ostric OST-BL-3W LED Bulb",
+  "handle": "ostric-ost-bl-3w-led-bulb",
+  "subtitle": "Ostric OST-BL-3W — 3W",
+  "description": "Ostric OST-BL-3W — Ostric LED Bulbs. Specifications: 3W · A-55 · E27 · 6500K · 1x200 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-BL-3W",
+   "wattage": "3W",
+   "price_list": "Ostric June 2026",
+   "specifications": "3W · A-55 · E27 · 6500K · 1x200 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWSZ1AVMD1Y7EMJ9T7ZB5",
+    "title": "Default",
+    "sku": "OSTBL3W-3W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 12000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK799J4EZ16Y2EHEMHFG",
+    "name": "Ostric LED Bulbs",
+    "handle": "ostric-led-bulbs"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWSGFYPA0BVZ60DT62Y6W",
+  "title": "Ostric OST-BL-CANDEL 10W LED Bulb",
+  "handle": "ostric-ost-bl-candel-10w-led-bulb",
+  "subtitle": "Ostric OST-BL-CANDEL 10W — 10W",
+  "description": "Ostric OST-BL-CANDEL — Ostric LED Bulbs. Specifications: 10W · Candel · E14 · 3000K · 1x100 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-BL-CANDEL",
+   "wattage": "10W",
+   "price_list": "Ostric June 2026",
+   "specifications": "10W · Candel · E14 · 3000K · 1x100 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWSHP7KN139C098X1N428",
+    "title": "Default",
+    "sku": "OSTBLCANDEL-10W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 14500,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK799J4EZ16Y2EHEMHFG",
+    "name": "Ostric LED Bulbs",
+    "handle": "ostric-led-bulbs"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWSMV5FB4E15XSD7CHWNW",
+  "title": "Ostric OST-BL-CLASSIC 12W LED Bulb",
+  "handle": "ostric-ost-bl-classic-12w-led-bulb",
+  "subtitle": "Ostric OST-BL-CLASSIC 12W — 12W",
+  "description": "Ostric OST-BL-CLASSIC — Ostric LED Bulbs. Specifications: 12W · A-65 · E27 / B22 · 3000K, 6500K · 1x100 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-BL-CLASSIC",
+   "wattage": "12W",
+   "price_list": "Ostric June 2026",
+   "specifications": "12W · A-65 · E27 / B22 · 3000K, 6500K · 1x100 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWSP1Z6V0ZE9KA3RENY8A",
+    "title": "Default",
+    "sku": "OSTBLCLASSIC-12W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 12000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK799J4EZ16Y2EHEMHFG",
+    "name": "Ostric LED Bulbs",
+    "handle": "ostric-led-bulbs"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWT2T14XC09Q24JQW76B9",
+  "title": "Ostric OST-BL-SHAPE T 30W LED Bulb",
+  "handle": "ostric-ost-bl-shape-t-30w-led-bulb",
+  "subtitle": "Ostric OST-BL-SHAPE T 30W — 30W",
+  "description": "Ostric OST-BL-SHAPE T — Ostric LED Bulbs. Specifications: 30W · T-Shape · E27 · 6500K · 1x30 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-BL-SHAPE T",
+   "wattage": "30W",
+   "price_list": "Ostric June 2026",
+   "specifications": "30W · T-Shape · E27 · 6500K · 1x30 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWT4DHAFSYWFTBF2JKAHF",
+    "title": "Default",
+    "sku": "OSTBLSHAPET-30W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 50000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK799J4EZ16Y2EHEMHFG",
+    "name": "Ostric LED Bulbs",
+    "handle": "ostric-led-bulbs"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWTA3X8N9G3B1CGM6R4M6",
+  "title": "Ostric OST-BL-SHAPE T 40W LED Bulb",
+  "handle": "ostric-ost-bl-shape-t-40w-led-bulb",
+  "subtitle": "Ostric OST-BL-SHAPE T 40W — 40W",
+  "description": "Ostric OST-BL-SHAPE T — Ostric LED Bulbs. Specifications: 40W · T-Shape · E27 · 6500K · 1x20 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-BL-SHAPE T",
+   "wattage": "40W",
+   "price_list": "Ostric June 2026",
+   "specifications": "40W · T-Shape · E27 · 6500K · 1x20 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWTBQ5ZCQDVZMDET3SQBF",
+    "title": "Default",
+    "sku": "OSTBLSHAPET-40W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 70000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK799J4EZ16Y2EHEMHFG",
+    "name": "Ostric LED Bulbs",
+    "handle": "ostric-led-bulbs"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWTFZTSMV61MCPY7DJ240",
+  "title": "Ostric OST-BL-T SHAPE 65W LED Bulb",
+  "handle": "ostric-ost-bl-t-shape-65w-led-bulb",
+  "subtitle": "Ostric OST-BL-T SHAPE 65W — 65W",
+  "description": "Ostric OST-BL-T SHAPE — Ostric LED Bulbs. Specifications: 65W · T-Shape · E27 · 6500K · 1x10 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-BL-T SHAPE",
+   "wattage": "65W",
+   "price_list": "Ostric June 2026",
+   "specifications": "65W · T-Shape · E27 · 6500K · 1x10 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWTH11V092NCT3J5DBNM5",
+    "title": "Default",
+    "sku": "OSTBLTSHAPE-65W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 100000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK799J4EZ16Y2EHEMHFG",
+    "name": "Ostric LED Bulbs",
+    "handle": "ostric-led-bulbs"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWXK4EZEXDN7AZSCAQVV6",
+  "title": "Ostric OST-CL 100W Highbay Light",
+  "handle": "ostric-ost-cl-100w-highbay-light",
+  "subtitle": "Ostric OST-CL 100W — 100W",
+  "description": "Ostric OST-CL — Ostric Highbay Lights. Specifications: 100W · 6500K · 1x6 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-CL",
+   "wattage": "100W",
+   "price_list": "Ostric June 2026",
+   "specifications": "100W · 6500K · 1x6 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWXM7T35TDB35GG0QDE4B",
+    "title": "Default",
+    "sku": "OSTCL-100W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 478000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKFTCWD79TTPN4AXM3ZK",
+    "name": "Ostric Highbay Lights",
+    "handle": "ostric-highbay-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWY7CK3FWDND6KJTQMP4H",
+  "title": "Ostric OST-CL 150W Highbay Light",
+  "handle": "ostric-ost-cl-150w-highbay-light",
+  "subtitle": "Ostric OST-CL 150W — 150W",
+  "description": "Ostric OST-CL — Ostric Highbay Lights. Specifications: 150W · 6500K · 1x6 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-CL",
+   "wattage": "150W",
+   "price_list": "Ostric June 2026",
+   "specifications": "150W · 6500K · 1x6 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWY9PVACVBR4TDXKNGWVH",
+    "title": "Default",
+    "sku": "OSTCL-150W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 660000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKFTCWD79TTPN4AXM3ZK",
+    "name": "Ostric Highbay Lights",
+    "handle": "ostric-highbay-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWP2DTYTWZ0JVTGCQR4DT",
+  "title": "Ostric OST-COB 1121 7W COB Down Light (3 Inch)",
+  "handle": "ostric-ost-cob-1121-7w-cob-down-light-3-inch",
+  "subtitle": "Ostric OST-COB 1121 7W — 7W",
+  "description": "Ostric OST-COB 1121 — Ostric COB Down Lights. Aluminum Body. Specifications: 7W · 3 Inch · 3000K, 4000K · 1x100 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "3 Inch",
+   "brand": "Ostric",
+   "article": "OST-COB 1121",
+   "wattage": "7W",
+   "price_list": "Ostric June 2026",
+   "specifications": "7W · 3 Inch · 3000K, 4000K · 1x100 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWP3RNJNGKH2Y7JRZQHNR",
+    "title": "Default",
+    "sku": "OSTCOB1121-7W-3INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 36000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJYP956GY6DS5Y9RDSSH",
+    "name": "Ostric COB Down Lights",
+    "handle": "ostric-cob-down-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWP7CY51HDMT3TM27N4F1",
+  "title": "Ostric OST-COB 1122 7W COB Down Light (3 Inch)",
+  "handle": "ostric-ost-cob-1122-7w-cob-down-light-3-inch",
+  "subtitle": "Ostric OST-COB 1122 7W — 7W",
+  "description": "Ostric OST-COB 1122 — Ostric COB Down Lights. PC Body. Specifications: 7W · 3 Inch · 3000K, 4000K · 1x100 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "3 Inch",
+   "brand": "Ostric",
+   "article": "OST-COB 1122",
+   "wattage": "7W",
+   "price_list": "Ostric June 2026",
+   "specifications": "7W · 3 Inch · 3000K, 4000K · 1x100 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWP8S4KRYK3TKB631WHHD",
+    "title": "Default",
+    "sku": "OSTCOB1122-7W-3INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 43500,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJYP956GY6DS5Y9RDSSH",
+    "name": "Ostric COB Down Lights",
+    "handle": "ostric-cob-down-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWPGPTS0JQRH2VHCDWCCK",
+  "title": "Ostric OST-CR-79 12W COB Down Light (4 Inch)",
+  "handle": "ostric-ost-cr-79-12w-cob-down-light-4-inch",
+  "subtitle": "Ostric OST-CR-79 12W — 12W",
+  "description": "Ostric OST-CR-79 — Ostric COB Down Lights. Aluminum · Adjustable Reflector · P.F 0.9. Specifications: 12W · 4 Inch · 1x80 Pcs · 3000K, 4000K.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "4 Inch",
+   "brand": "Ostric",
+   "article": "OST-CR-79",
+   "wattage": "12W",
+   "price_list": "Ostric June 2026",
+   "specifications": "12W · 4 Inch · 1x80 Pcs · 3000K, 4000K"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWPJ4HBA49M2E1ZZX6GG3",
+    "title": "Default",
+    "sku": "OSTCR79-12W-4INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 100000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJYP956GY6DS5Y9RDSSH",
+    "name": "Ostric COB Down Lights",
+    "handle": "ostric-cob-down-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWPS5GAR45DTFC6WBZCVQ",
+  "title": "Ostric OST-CR-79 18W COB Down Light (5 Inch)",
+  "handle": "ostric-ost-cr-79-18w-cob-down-light-5-inch",
+  "subtitle": "Ostric OST-CR-79 18W — 18W",
+  "description": "Ostric OST-CR-79 — Ostric COB Down Lights. Aluminum · Adjustable Reflector · P.F 0.9. Specifications: 18W · 5 Inch · 1x48 Pcs · 3000K, 4000K.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "5 Inch",
+   "brand": "Ostric",
+   "article": "OST-CR-79",
+   "wattage": "18W",
+   "price_list": "Ostric June 2026",
+   "specifications": "18W · 5 Inch · 1x48 Pcs · 3000K, 4000K"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWQB7PSHQE3BA4W3NG856",
+    "title": "Default",
+    "sku": "OSTCR79-18W-5INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 160000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJYP956GY6DS5Y9RDSSH",
+    "name": "Ostric COB Down Lights",
+    "handle": "ostric-cob-down-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWQGRH8TYQ8PCFPZG8MCJ",
+  "title": "Ostric OST-CR-79 24W COB Down Light (6 Inch)",
+  "handle": "ostric-ost-cr-79-24w-cob-down-light-6-inch",
+  "subtitle": "Ostric OST-CR-79 24W — 24W",
+  "description": "Ostric OST-CR-79 — Ostric COB Down Lights. Aluminum · Adjustable Reflector · P.F 0.9. Specifications: 24W · 6 Inch · 1x30 Pcs · 3000K, 4000K.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "6 Inch",
+   "brand": "Ostric",
+   "article": "OST-CR-79",
+   "wattage": "24W",
+   "price_list": "Ostric June 2026",
+   "specifications": "24W · 6 Inch · 1x30 Pcs · 3000K, 4000K"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWQJ9F5QGAJ4MD9MM9HE2",
+    "title": "Default",
+    "sku": "OSTCR79-24W-6INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 220000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJYP956GY6DS5Y9RDSSH",
+    "name": "Ostric COB Down Lights",
+    "handle": "ostric-cob-down-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWPC2YNCEMD2F867PPJK9",
+  "title": "Ostric OST-CR-79 7W COB Down Light (3 Inch)",
+  "handle": "ostric-ost-cr-79-7w-cob-down-light-3-inch",
+  "subtitle": "Ostric OST-CR-79 7W — 7W",
+  "description": "Ostric OST-CR-79 — Ostric COB Down Lights. Aluminum · Adjustable Reflector · P.F 0.9. Specifications: 7W · 3 Inch · 1x100 Pcs · 3000K, 4000K.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "3 Inch",
+   "brand": "Ostric",
+   "article": "OST-CR-79",
+   "wattage": "7W",
+   "price_list": "Ostric June 2026",
+   "specifications": "7W · 3 Inch · 1x100 Pcs · 3000K, 4000K"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWPDBG5ZY7DK1RMF9HZQJ",
+    "title": "Default",
+    "sku": "OSTCR79-7W-3INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 68000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJYP956GY6DS5Y9RDSSH",
+    "name": "Ostric COB Down Lights",
+    "handle": "ostric-cob-down-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWMSVKTK0DY792AJE3KWC",
+  "title": "Ostric OST-DL 421 7W SMD Down Light (3 Inch)",
+  "handle": "ostric-ost-dl-421-7w-smd-down-light-3-inch",
+  "subtitle": "Ostric OST-DL 421 7W — 3 Inch",
+  "description": "Ostric OST-DL 421 — Ostric SMD Down Lights. Specifications: 3 Inch · 7W · 3000K, 4000K, 6500K · 1x100 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "3 Inch",
+   "brand": "Ostric",
+   "article": "OST-DL 421",
+   "wattage": "7W",
+   "price_list": "Ostric June 2026",
+   "specifications": "3 Inch · 7W · 3000K, 4000K, 6500K · 1x100 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWMVJGK03S3P4JVXJKVQM",
+    "title": "Default",
+    "sku": "OSTDL421-7W-3INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 18500,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJV4Q4CSFFVS0RZMHGG0",
+    "name": "Ostric SMD Down Lights",
+    "handle": "ostric-smd-down-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWME5V6ZBMJPQQ8QS0G2J",
+  "title": "Ostric OST-DL 521 12W SMD Down Light (3 Inch)",
+  "handle": "ostric-ost-dl-521-12w-smd-down-light-3-inch",
+  "subtitle": "Ostric OST-DL 521 12W — 3 Inch",
+  "description": "Ostric OST-DL 521 — Ostric SMD Down Lights. Specifications: 3 Inch · 12W · 6500K · 1x100 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "3 Inch",
+   "brand": "Ostric",
+   "article": "OST-DL 521",
+   "wattage": "12W",
+   "price_list": "Ostric June 2026",
+   "specifications": "3 Inch · 12W · 6500K · 1x100 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWMFNET72FZA1V13VXWSS",
+    "title": "Default",
+    "sku": "OSTDL521-12W-3INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 26500,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJV4Q4CSFFVS0RZMHGG0",
+    "name": "Ostric SMD Down Lights",
+    "handle": "ostric-smd-down-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWMKX7GGNJVMM7G098K3B",
+  "title": "Ostric OST-DL 521 12W SMD Down Light (4 Inch)",
+  "handle": "ostric-ost-dl-521-12w-smd-down-light-4-inch",
+  "subtitle": "Ostric OST-DL 521 12W — 4 Inch",
+  "description": "Ostric OST-DL 521 — Ostric SMD Down Lights. Specifications: 4 Inch · 12W · 3000K, 6500K · 1x100 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "4 Inch",
+   "brand": "Ostric",
+   "article": "OST-DL 521",
+   "wattage": "12W",
+   "price_list": "Ostric June 2026",
+   "specifications": "4 Inch · 12W · 3000K, 6500K · 1x100 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWMP1M95SZS6Z4C1Y3QCC",
+    "title": "Default",
+    "sku": "OSTDL521-12W-4INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 26500,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJV4Q4CSFFVS0RZMHGG0",
+    "name": "Ostric SMD Down Lights",
+    "handle": "ostric-smd-down-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWKW5PDXH3FDXA3ENPBXE",
+  "title": "Ostric OST-DL 521 7W SMD Down Light (3 Inch)",
+  "handle": "ostric-ost-dl-521-7w-smd-down-light-3-inch",
+  "subtitle": "Ostric OST-DL 521 7W — 3 Inch",
+  "description": "Ostric OST-DL 521 — Ostric SMD Down Lights. Specifications: 3 Inch · 7W · 3000K, 6500K · 1x100 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "3 Inch",
+   "brand": "Ostric",
+   "article": "OST-DL 521",
+   "wattage": "7W",
+   "price_list": "Ostric June 2026",
+   "specifications": "3 Inch · 7W · 3000K, 6500K · 1x100 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWM6QT6X41JZ5DB2Q424K",
+    "title": "Default",
+    "sku": "OSTDL521-7W-3INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 17500,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJV4Q4CSFFVS0RZMHGG0",
+    "name": "Ostric SMD Down Lights",
+    "handle": "ostric-smd-down-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWW8MNZD1QAWXMN0EPJ0E",
+  "title": "Ostric OST-FL011 100W Flood Light",
+  "handle": "ostric-ost-fl011-100w-flood-light",
+  "subtitle": "Ostric OST-FL011 100W — 100W",
+  "description": "Ostric OST-FL011 — Ostric Flood Lights. Specifications: 100W · 3000K, 6500K · 1x10 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-FL011",
+   "wattage": "100W",
+   "price_list": "Ostric June 2026",
+   "specifications": "100W · 3000K, 6500K · 1x10 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWW9KX8F7VSHMBW5BWH2C",
+    "title": "Default",
+    "sku": "OSTFL011-100W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 368000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKBQ30GPD8KXQYH04PGK",
+    "name": "Ostric Flood Lights",
+    "handle": "ostric-flood-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWWCYSY22DG34NSC6292A",
+  "title": "Ostric OST-FL011 150W Flood Light",
+  "handle": "ostric-ost-fl011-150w-flood-light",
+  "subtitle": "Ostric OST-FL011 150W — 150W",
+  "description": "Ostric OST-FL011 — Ostric Flood Lights. Specifications: 150W · 3000K, 6500K · 1x5 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-FL011",
+   "wattage": "150W",
+   "price_list": "Ostric June 2026",
+   "specifications": "150W · 3000K, 6500K · 1x5 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWWDX1H268E3PAMCKYFND",
+    "title": "Default",
+    "sku": "OSTFL011-150W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 550000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKBQ30GPD8KXQYH04PGK",
+    "name": "Ostric Flood Lights",
+    "handle": "ostric-flood-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWWGTY1F4ZPJ4VA90D7ZQ",
+  "title": "Ostric OST-FL011 200W Flood Light",
+  "handle": "ostric-ost-fl011-200w-flood-light",
+  "subtitle": "Ostric OST-FL011 200W — 200W",
+  "description": "Ostric OST-FL011 — Ostric Flood Lights. Specifications: 200W · 3000K, 6500K · 1x5 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-FL011",
+   "wattage": "200W",
+   "price_list": "Ostric June 2026",
+   "specifications": "200W · 3000K, 6500K · 1x5 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWWHVE72EXDJQD31XDD2B",
+    "title": "Default",
+    "sku": "OSTFL011-200W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 720000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKBQ30GPD8KXQYH04PGK",
+    "name": "Ostric Flood Lights",
+    "handle": "ostric-flood-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWWMP3ZZX8J9Z2KB25E91",
+  "title": "Ostric OST-FL011 300W Flood Light",
+  "handle": "ostric-ost-fl011-300w-flood-light",
+  "subtitle": "Ostric OST-FL011 300W — 300W",
+  "description": "Ostric OST-FL011 — Ostric Flood Lights. Specifications: 300W · 6500K · 1x5 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-FL011",
+   "wattage": "300W",
+   "price_list": "Ostric June 2026",
+   "specifications": "300W · 6500K · 1x5 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWWP3JPGN26Z40ZEES6GZ",
+    "title": "Default",
+    "sku": "OSTFL011-300W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 988000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKBQ30GPD8KXQYH04PGK",
+    "name": "Ostric Flood Lights",
+    "handle": "ostric-flood-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWVYQ0B46JHA1CZRP8FWB",
+  "title": "Ostric OST-FL011 30W Flood Light",
+  "handle": "ostric-ost-fl011-30w-flood-light",
+  "subtitle": "Ostric OST-FL011 30W — 30W",
+  "description": "Ostric OST-FL011 — Ostric Flood Lights. Specifications: 30W · 3000K, 6500K · 1x20 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-FL011",
+   "wattage": "30W",
+   "price_list": "Ostric June 2026",
+   "specifications": "30W · 3000K, 6500K · 1x20 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWW01PV4075QNS9VXKK6E",
+    "title": "Default",
+    "sku": "OSTFL011-30W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 167000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKBQ30GPD8KXQYH04PGK",
+    "name": "Ostric Flood Lights",
+    "handle": "ostric-flood-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWW34JJEW2CDYYYDDYJ5Q",
+  "title": "Ostric OST-FL011 50W Flood Light",
+  "handle": "ostric-ost-fl011-50w-flood-light",
+  "subtitle": "Ostric OST-FL011 50W — 50W",
+  "description": "Ostric OST-FL011 — Ostric Flood Lights. Specifications: 50W · 3000K, 6500K · 1x10 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-FL011",
+   "wattage": "50W",
+   "price_list": "Ostric June 2026",
+   "specifications": "50W · 3000K, 6500K · 1x10 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWW4MRGPWCDZDMZQT0PB6",
+    "title": "Default",
+    "sku": "OSTFL011-50W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 218000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKBQ30GPD8KXQYH04PGK",
+    "name": "Ostric Flood Lights",
+    "handle": "ostric-flood-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWX1W04EWCYSQFDKWT70E",
+  "title": "Ostric OST-FL012 100W Mini Flood Light",
+  "handle": "ostric-ost-fl012-100w-mini-flood-light",
+  "subtitle": "Ostric OST-FL012 100W — 100W",
+  "description": "Ostric OST-FL012 — Ostric Mini Flood Lights. Specifications: 100W · 6500K · 1x10 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-FL012",
+   "wattage": "100W",
+   "price_list": "Ostric June 2026",
+   "specifications": "100W · 6500K · 1x10 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWX2XWVYY95BSM9YE4K7R",
+    "title": "Default",
+    "sku": "OSTFL012-100W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 245000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKCR46FEZ3EWAHVCZTYX",
+    "name": "Ostric Mini Flood Lights",
+    "handle": "ostric-mini-flood-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWWSBNNEN3JQAH6HMZ8TZ",
+  "title": "Ostric OST-FL012 30W Mini Flood Light",
+  "handle": "ostric-ost-fl012-30w-mini-flood-light",
+  "subtitle": "Ostric OST-FL012 30W — 30W",
+  "description": "Ostric OST-FL012 — Ostric Mini Flood Lights. Specifications: 30W · 6500K · 1x20 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-FL012",
+   "wattage": "30W",
+   "price_list": "Ostric June 2026",
+   "specifications": "30W · 6500K · 1x20 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWWT9A0X8R7Z6X4EE9NDS",
+    "title": "Default",
+    "sku": "OSTFL012-30W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 110000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKCR46FEZ3EWAHVCZTYX",
+    "name": "Ostric Mini Flood Lights",
+    "handle": "ostric-mini-flood-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWWX97EAKRG2KJDQ6VQPK",
+  "title": "Ostric OST-FL012 50W Mini Flood Light",
+  "handle": "ostric-ost-fl012-50w-mini-flood-light",
+  "subtitle": "Ostric OST-FL012 50W — 50W",
+  "description": "Ostric OST-FL012 — Ostric Mini Flood Lights. Specifications: 50W · 6500K · 1x20 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-FL012",
+   "wattage": "50W",
+   "price_list": "Ostric June 2026",
+   "specifications": "50W · 6500K · 1x20 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWWY997CW3M3AAF2JEA0H",
+    "title": "Default",
+    "sku": "OSTFL012-50W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 145000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKCR46FEZ3EWAHVCZTYX",
+    "name": "Ostric Mini Flood Lights",
+    "handle": "ostric-mini-flood-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWQNYXS8K0F4Z8RGHVG6C",
+  "title": "Ostric OST-GL-1 7W Grid Light",
+  "handle": "ostric-ost-gl-1-7w-grid-light",
+  "subtitle": "Ostric OST-GL-1 7W — 3 in 1",
+  "description": "Ostric OST-GL-1 — Ostric Grid Lights. Specifications: 3 in 1 · 7W (1x7W) · 1x50 Pcs · Black & White.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-GL-1",
+   "wattage": "7W",
+   "price_list": "Ostric June 2026",
+   "specifications": "3 in 1 · 7W (1x7W) · 1x50 Pcs · Black & White"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWQQ81S9Y90ECH71ZD45R",
+    "title": "Default",
+    "sku": "OSTGL1-7W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 43500,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJZYZ77H1A9X8BF1S4KF",
+    "name": "Ostric Grid Lights",
+    "handle": "ostric-grid-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWQTT50C7AVYDNTTYH2CE",
+  "title": "Ostric OST-GL-2 14W Grid Light",
+  "handle": "ostric-ost-gl-2-14w-grid-light",
+  "subtitle": "Ostric OST-GL-2 14W — 3 in 1",
+  "description": "Ostric OST-GL-2 — Ostric Grid Lights. Specifications: 3 in 1 · 14W (2x7W) · 1x50 Pcs · Black & White.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-GL-2",
+   "wattage": "14W",
+   "price_list": "Ostric June 2026",
+   "specifications": "3 in 1 · 14W (2x7W) · 1x50 Pcs · Black & White"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWQW6293BB1QXJM2DPF7D",
+    "title": "Default",
+    "sku": "OSTGL2-14W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 114000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJZYZ77H1A9X8BF1S4KF",
+    "name": "Ostric Grid Lights",
+    "handle": "ostric-grid-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWQZJQV42GBDT30SHFEZD",
+  "title": "Ostric OST-GL-3 21W Grid Light",
+  "handle": "ostric-ost-gl-3-21w-grid-light",
+  "subtitle": "Ostric OST-GL-3 21W — 3 in 1",
+  "description": "Ostric OST-GL-3 — Ostric Grid Lights. Specifications: 3 in 1 · 21W (3x7W) · 1x40 Pcs · Black & White.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-GL-3",
+   "wattage": "21W",
+   "price_list": "Ostric June 2026",
+   "specifications": "3 in 1 · 21W (3x7W) · 1x40 Pcs · Black & White"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWR0VT8BGW2VM6ZW90JHF",
+    "title": "Default",
+    "sku": "OSTGL3-21W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 137000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJZYZ77H1A9X8BF1S4KF",
+    "name": "Ostric Grid Lights",
+    "handle": "ostric-grid-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWYXE5XCW02G1D7RSCCQ6",
+  "title": "Ostric OST-GRL 10W Garden Light",
+  "handle": "ostric-ost-grl-10w-garden-light",
+  "subtitle": "Ostric OST-GRL 10W — 10W",
+  "description": "Ostric OST-GRL — Ostric Garden Lights. Specifications: 10W · 3000K · 1x50 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-GRL",
+   "wattage": "10W",
+   "price_list": "Ostric June 2026",
+   "specifications": "10W · 3000K · 1x50 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWYYTQBYP3YPCYVJHQERK",
+    "title": "Default",
+    "sku": "OSTGRL-10W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 108000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKGQAPBXS2Z5WN9WES4Y",
+    "name": "Ostric Garden Lights",
+    "handle": "ostric-garden-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWZ2HB6Q7D5QE0JHCJEF3",
+  "title": "Ostric OST-GRL 15W Garden Light",
+  "handle": "ostric-ost-grl-15w-garden-light",
+  "subtitle": "Ostric OST-GRL 15W — 15W",
+  "description": "Ostric OST-GRL — Ostric Garden Lights. Specifications: 15W · 3000K · 1x20 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-GRL",
+   "wattage": "15W",
+   "price_list": "Ostric June 2026",
+   "specifications": "15W · 3000K · 1x20 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWZ3NWACSAJG8V5MSE7Q3",
+    "title": "Default",
+    "sku": "OSTGRL-15W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 154000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKGQAPBXS2Z5WN9WES4Y",
+    "name": "Ostric Garden Lights",
+    "handle": "ostric-garden-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWYN7XEYS3Y25CHCA07DG",
+  "title": "Ostric OST-GRL 5W Garden Light",
+  "handle": "ostric-ost-grl-5w-garden-light",
+  "subtitle": "Ostric OST-GRL 5W — 5W",
+  "description": "Ostric OST-GRL — Ostric Garden Lights. Specifications: 5W · 3000K, BLUE · 1x50 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-GRL",
+   "wattage": "5W",
+   "price_list": "Ostric June 2026",
+   "specifications": "5W · 3000K, BLUE · 1x50 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWYQNNWB2A86FMC8FGDQY",
+    "title": "Default",
+    "sku": "OSTGRL-5W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 60000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKGQAPBXS2Z5WN9WES4Y",
+    "name": "Ostric Garden Lights",
+    "handle": "ostric-garden-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWZH4YKPWS3TMPXEZ8QVV",
+  "title": "Ostric OST-LINEAR 5050 48W Linear/Profile Light (4 Ft)",
+  "handle": "ostric-ost-linear-5050-48w-linear-profile-light-4-ft",
+  "subtitle": "Ostric OST-LINEAR 5050 48W — 48W",
+  "description": "Ostric OST-LINEAR 5050 — Ostric Linear & Profile Lights. Aluminum. Specifications: 48W · 4Ft · 3000K, 4000K · 1x1 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "4 Ft",
+   "brand": "Ostric",
+   "article": "OST-LINEAR 5050",
+   "wattage": "48W",
+   "price_list": "Ostric June 2026",
+   "specifications": "48W · 4Ft · 3000K, 4000K · 1x1 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWZJ1YG83S92XW3YYFP9E",
+    "title": "Default",
+    "sku": "OSTLINEAR5050-48W-4FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 489000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKJTGJF18AF3AQTN82ZC",
+    "name": "Ostric Linear & Profile Lights",
+    "handle": "ostric-linear-profile-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX29KBMJ2XX1S9H3A9JH1",
+  "title": "Ostric OST-MP Frame Less Panel 22W Special Offer (6 Inch)",
+  "handle": "ostric-ost-mp-frame-less-panel-22w-special-offer-6-inch",
+  "subtitle": "Ostric OST-MP Frame Less Panel 22W — 22W",
+  "description": "Ostric OST-MP Frame Less Panel — Ostric Special Discounts. Recessed. Specifications: 22W · 6 Inch · 4000K · 1x40 Pcs. SPECIAL DISCOUNTED NET PRICE — no further discount applicable.",
+  "thumbnail": null,
+  "metadata": {
+   "note": "Special discounted net price — no further discount.",
+   "size": "6 Inch",
+   "brand": "Ostric",
+   "article": "OST-MP Frame Less Panel",
+   "wattage": "22W",
+   "net_price": true,
+   "price_list": "Ostric June 2026",
+   "specifications": "22W · 6 Inch · 4000K · 1x40 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX2B2P5N7W1CPNT28WAC1",
+    "title": "Default",
+    "sku": "OSTMPFRAMELESSPANEL-22W-6INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 50000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKN6C7JTVREHASZZ4B35",
+    "name": "Ostric Special Discounts",
+    "handle": "ostric-special-discounts"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWN0ED9T4T9ZEQ837S4FH",
+  "title": "Ostric OST-MP R 12W Frameless Panel (3 Inch)",
+  "handle": "ostric-ost-mp-r-12w-frameless-panel-3-inch",
+  "subtitle": "Ostric OST-MP R 12W — 3 Inch",
+  "description": "Ostric OST-MP R — Ostric Frameless Panels. Specifications: 3 Inch · 12W · 6500K · 1x100 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "3 Inch",
+   "brand": "Ostric",
+   "article": "OST-MP R",
+   "wattage": "12W",
+   "price_list": "Ostric June 2026",
+   "specifications": "3 Inch · 12W · 6500K · 1x100 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWN2FW6FSCRT52B5EVQGX",
+    "title": "Default",
+    "sku": "OSTMPR-12W-3INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 32000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJW8GBCQ6HPK9J2WK6HY",
+    "name": "Ostric Frameless Panels",
+    "handle": "ostric-frameless-panels"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWN6BZC6YVF3PWWQSN57W",
+  "title": "Ostric OST-MP R 18W Frameless Panel (4 Inch)",
+  "handle": "ostric-ost-mp-r-18w-frameless-panel-4-inch",
+  "subtitle": "Ostric OST-MP R 18W — 4 Inch",
+  "description": "Ostric OST-MP R — Ostric Frameless Panels. Specifications: 4 Inch · 18W · 6500K · 1x100 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "4 Inch",
+   "brand": "Ostric",
+   "article": "OST-MP R",
+   "wattage": "18W",
+   "price_list": "Ostric June 2026",
+   "specifications": "4 Inch · 18W · 6500K · 1x100 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWN7WEM2PYMEP15J3ANFR",
+    "title": "Default",
+    "sku": "OSTMPR-18W-4INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 42000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJW8GBCQ6HPK9J2WK6HY",
+    "name": "Ostric Frameless Panels",
+    "handle": "ostric-frameless-panels"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWND7EN80HHBCQ9EP5YF9",
+  "title": "Ostric OST-MP R 24W Frameless Panel (6 Inch)",
+  "handle": "ostric-ost-mp-r-24w-frameless-panel-6-inch",
+  "subtitle": "Ostric OST-MP R 24W — 6 Inch",
+  "description": "Ostric OST-MP R — Ostric Frameless Panels. Specifications: 6 Inch · 24W · 6500K · 1x40 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "6 Inch",
+   "brand": "Ostric",
+   "article": "OST-MP R",
+   "wattage": "24W",
+   "price_list": "Ostric June 2026",
+   "specifications": "6 Inch · 24W · 6500K · 1x40 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWNEQD739DBTQGAMDVMQ3",
+    "title": "Default",
+    "sku": "OSTMPR-24W-6INCH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 62000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJW8GBCQ6HPK9J2WK6HY",
+    "name": "Ostric Frameless Panels",
+    "handle": "ostric-frameless-panels"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWNWFZT3HF5FCS25DPRPX",
+  "title": "Ostric OST-PANEL-1X4 42W Backlit Panel (4 Ft)",
+  "handle": "ostric-ost-panel-1x4-42w-backlit-panel-4-ft",
+  "subtitle": "Ostric OST-PANEL-1X4 42W — 42W",
+  "description": "Ostric OST-PANEL-1X4 — Ostric Backlit Panels. Specifications: 42W · 1x4 Ft · 3000K, 4000K, 6500K · P.F 0.9 · 1x6 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "4 Ft",
+   "brand": "Ostric",
+   "article": "OST-PANEL-1X4",
+   "wattage": "42W",
+   "price_list": "Ostric June 2026",
+   "specifications": "42W · 1x4 Ft · 3000K, 4000K, 6500K · P.F 0.9 · 1x6 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWNXYJJ2EMRKH3H429B45",
+    "title": "Default",
+    "sku": "OSTPANEL1X4-42W-4FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 360000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJXJJ6820DHHQXNCRBRC",
+    "name": "Ostric Backlit Panels",
+    "handle": "ostric-backlit-panels"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWNJWSPA3X1X0KX7VFRVS",
+  "title": "Ostric OST-PANEL-2x2 42W Backlit Panel (2 Ft)",
+  "handle": "ostric-ost-panel-2x2-42w-backlit-panel-2-ft",
+  "subtitle": "Ostric OST-PANEL-2x2 42W — 42W",
+  "description": "Ostric OST-PANEL-2x2 — Ostric Backlit Panels. Specifications: 42W · 2x2 Ft · 4000K, 6500K · P.F 0.5 · 1x6 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "2 Ft",
+   "brand": "Ostric",
+   "article": "OST-PANEL-2x2",
+   "wattage": "42W",
+   "price_list": "Ostric June 2026",
+   "specifications": "42W · 2x2 Ft · 4000K, 6500K · P.F 0.5 · 1x6 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWNM3QW6420JEGAD5V0V7",
+    "title": "Default",
+    "sku": "OSTPANEL2X2-42W-2FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 260000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJXJJ6820DHHQXNCRBRC",
+    "name": "Ostric Backlit Panels",
+    "handle": "ostric-backlit-panels"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWNQECWGWNJAJMWN5ZGNP",
+  "title": "Ostric OST-PANEL-2x2 42W Backlit Panel (2 Ft)",
+  "handle": "ostric-ost-panel-2x2-42w-backlit-panel-2-ft-2",
+  "subtitle": "Ostric OST-PANEL-2x2 42W — 42W",
+  "description": "Ostric OST-PANEL-2x2 — Ostric Backlit Panels. Specifications: 42W · 2x2 Ft · 3000K, 4000K, 6500K · P.F 0.9 · 1x6 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "2 Ft",
+   "brand": "Ostric",
+   "article": "OST-PANEL-2x2",
+   "wattage": "42W",
+   "price_list": "Ostric June 2026",
+   "specifications": "42W · 2x2 Ft · 3000K, 4000K, 6500K · P.F 0.9 · 1x6 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWNRP609HBNTPHWC6HGYF",
+    "title": "Default",
+    "sku": "OSTPANEL2X2-42W-2FT-2",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 330000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWJXJJ6820DHHQXNCRBRC",
+    "name": "Ostric Backlit Panels",
+    "handle": "ostric-backlit-panels"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWZ8C8CYAJ625V3A1C63F",
+  "title": "Ostric OST-SPL 12W Pool/Fountain Light",
+  "handle": "ostric-ost-spl-12w-pool-fountain-light",
+  "subtitle": "Ostric OST-SPL 12W — RGB",
+  "description": "Ostric OST-SPL — Ostric Pool & Fountain Lights. Swimming Pool. Specifications: RGB · 12W · 24V DC · 1x10 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-SPL",
+   "wattage": "12W",
+   "price_list": "Ostric June 2026",
+   "specifications": "RGB · 12W · 24V DC · 1x10 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWZ9EMQTD0XAQCWSYBFFC",
+    "title": "Default",
+    "sku": "OSTSPL-12W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 500000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKHXT1WWFXFGEBHEM0B8",
+    "name": "Ostric Pool & Fountain Lights",
+    "handle": "ostric-pool-fountain-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWXAPDT9NBNVQRD9MR5W4",
+  "title": "Ostric OST-ST 100W Street Light",
+  "handle": "ostric-ost-st-100w-street-light",
+  "subtitle": "Ostric OST-ST 100W — 100W",
+  "description": "Ostric OST-ST — Ostric Street Lights. Specifications: 100W · 6500K · 1x10 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-ST",
+   "wattage": "100W",
+   "price_list": "Ostric June 2026",
+   "specifications": "100W · 6500K · 1x10 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWXBMSTJF974HW0XCRPG3",
+    "title": "Default",
+    "sku": "OSTST-100W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 523000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKDS3T7E95AD6YBHGF27",
+    "name": "Ostric Street Lights",
+    "handle": "ostric-street-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWXER9CRGMVPWJFV2X3P0",
+  "title": "Ostric OST-ST 150W Street Light",
+  "handle": "ostric-ost-st-150w-street-light",
+  "subtitle": "Ostric OST-ST 150W — 150W",
+  "description": "Ostric OST-ST — Ostric Street Lights. Specifications: 150W · 6500K · 1x7 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-ST",
+   "wattage": "150W",
+   "price_list": "Ostric June 2026",
+   "specifications": "150W · 6500K · 1x7 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWXFRB0M6CNPP22MZJ1K0",
+    "title": "Default",
+    "sku": "OSTST-150W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 553000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKDS3T7E95AD6YBHGF27",
+    "name": "Ostric Street Lights",
+    "handle": "ostric-street-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWX69211FTH8SBDVMWDVY",
+  "title": "Ostric OST-ST 50W Street Light",
+  "handle": "ostric-ost-st-50w-street-light",
+  "subtitle": "Ostric OST-ST 50W — 50W",
+  "description": "Ostric OST-ST — Ostric Street Lights. Specifications: 50W · 6500K · 1x10 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-ST",
+   "wattage": "50W",
+   "price_list": "Ostric June 2026",
+   "specifications": "50W · 6500K · 1x10 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWX7NRG25NY0YAAT67MK2",
+    "title": "Default",
+    "sku": "OSTST-50W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 341000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKDS3T7E95AD6YBHGF27",
+    "name": "Ostric Street Lights",
+    "handle": "ostric-street-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWVMX503T2V4NE0VA4KFD",
+  "title": "Ostric OST-T8 18 18W Batten Light (2 Ft)",
+  "handle": "ostric-ost-t8-18-18w-batten-light-2-ft",
+  "subtitle": "Ostric OST-T8 18 18W — 18W",
+  "description": "Ostric OST-T8 18 — Ostric Batten Lights (PC). Specifications: 18W · 2Ft · 3000K, 4000K, 6500K · 1x30 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "2 Ft",
+   "brand": "Ostric",
+   "article": "OST-T8 18",
+   "wattage": "18W",
+   "price_list": "Ostric June 2026",
+   "specifications": "18W · 2Ft · 3000K, 4000K, 6500K · 1x30 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWVP1SF9FNEHFYKAFC3NJ",
+    "title": "Default",
+    "sku": "OSTT818-18W-2FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 62500,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK9PGZG7A55V8TKRF8ZQ",
+    "name": "Ostric Batten Lights (PC)",
+    "handle": "ostric-batten-lights-pc"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWVSJAE95R87Z9RE5DT9P",
+  "title": "Ostric OST-T8 36 36W Batten Light (4 Ft)",
+  "handle": "ostric-ost-t8-36-36w-batten-light-4-ft",
+  "subtitle": "Ostric OST-T8 36 36W — 36W",
+  "description": "Ostric OST-T8 36 — Ostric Batten Lights (PC). Specifications: 36W · 4Ft · 3000K, 4000K, 6500K · 1x30 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "4 Ft",
+   "brand": "Ostric",
+   "article": "OST-T8 36",
+   "wattage": "36W",
+   "price_list": "Ostric June 2026",
+   "specifications": "36W · 4Ft · 3000K, 4000K, 6500K · 1x30 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWVTQQN3BF26ZM2X82FM3",
+    "title": "Default",
+    "sku": "OSTT836-36W-4FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 78000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK9PGZG7A55V8TKRF8ZQ",
+    "name": "Ostric Batten Lights (PC)",
+    "handle": "ostric-batten-lights-pc"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWRKEVA1XNMHY68B4R9G5",
+  "title": "Ostric OST-TDE 15W Surface Light",
+  "handle": "ostric-ost-tde-15w-surface-light",
+  "subtitle": "Ostric OST-TDE 15W — 15W",
+  "description": "Ostric OST-TDE — Ostric Surface Lights. Specifications: 15W · 3000K, 4000K · 1x30 Pcs · Black & White.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-TDE",
+   "wattage": "15W",
+   "price_list": "Ostric June 2026",
+   "specifications": "15W · 3000K, 4000K · 1x30 Pcs · Black & White"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWRMG6Y7ARWGC3W27ZRV4",
+    "title": "Default",
+    "sku": "OSTTDE-15W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 160000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK3F96CRK6634916MT9P",
+    "name": "Ostric Surface Lights",
+    "handle": "ostric-surface-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWRQHMB78MWTAF1K275B4",
+  "title": "Ostric OST-TDE 20W Surface Light",
+  "handle": "ostric-ost-tde-20w-surface-light",
+  "subtitle": "Ostric OST-TDE 20W — 20W",
+  "description": "Ostric OST-TDE — Ostric Surface Lights. Specifications: 20W · 3000K, 4000K · 1x30 Pcs · Black & White.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-TDE",
+   "wattage": "20W",
+   "price_list": "Ostric June 2026",
+   "specifications": "20W · 3000K, 4000K · 1x30 Pcs · Black & White"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWRRNW2Z4X3ZA7GZA90BC",
+    "title": "Default",
+    "sku": "OSTTDE-20W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 225000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK3F96CRK6634916MT9P",
+    "name": "Ostric Surface Lights",
+    "handle": "ostric-surface-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWRVWMDJAGC2PJPVPY7Q1",
+  "title": "Ostric OST-TDE 30W Surface Light",
+  "handle": "ostric-ost-tde-30w-surface-light",
+  "subtitle": "Ostric OST-TDE 30W — 30W",
+  "description": "Ostric OST-TDE — Ostric Surface Lights. Specifications: 30W · 3000K, 4000K · 1x20 Pcs · Black & White.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-TDE",
+   "wattage": "30W",
+   "price_list": "Ostric June 2026",
+   "specifications": "30W · 3000K, 4000K · 1x20 Pcs · Black & White"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWRX8DK30BZTJWFRZCRWT",
+    "title": "Default",
+    "sku": "OSTTDE-30W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 300000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK3F96CRK6634916MT9P",
+    "name": "Ostric Surface Lights",
+    "handle": "ostric-surface-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWS1TW0FHPXFESA3H6W89",
+  "title": "Ostric OST-TLC 10W Track Light",
+  "handle": "ostric-ost-tlc-10w-track-light",
+  "subtitle": "Ostric OST-TLC 10W — 10W",
+  "description": "Ostric OST-TLC — Ostric Track Lights. Specifications: 10W · 3000K, 4000K · 1x50 Pcs · Black & White.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-TLC",
+   "wattage": "10W",
+   "price_list": "Ostric June 2026",
+   "specifications": "10W · 3000K, 4000K · 1x50 Pcs · Black & White"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWS2TK68W09B64EXB97FS",
+    "title": "Default",
+    "sku": "OSTTLC-10W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 110000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK4JFKEZMGY424X2FNWF",
+    "name": "Ostric Track Lights",
+    "handle": "ostric-track-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWS6FEQSMTBZ5TCM677EM",
+  "title": "Ostric OST-TLC 20W Track Light",
+  "handle": "ostric-ost-tlc-20w-track-light",
+  "subtitle": "Ostric OST-TLC 20W — 20W",
+  "description": "Ostric OST-TLC — Ostric Track Lights. Specifications: 20W · 3000K, 4000K · 1x30 Pcs · Black & White.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-TLC",
+   "wattage": "20W",
+   "price_list": "Ostric June 2026",
+   "specifications": "20W · 3000K, 4000K · 1x30 Pcs · Black & White"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWS8K5Q27XF9A00N4QH4F",
+    "title": "Default",
+    "sku": "OSTTLC-20W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 150000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK4JFKEZMGY424X2FNWF",
+    "name": "Ostric Track Lights",
+    "handle": "ostric-track-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWSBRW7WKDVMRRCA0Z8R9",
+  "title": "Ostric OST-TLC 30W Track Light",
+  "handle": "ostric-ost-tlc-30w-track-light",
+  "subtitle": "Ostric OST-TLC 30W — 30W",
+  "description": "Ostric OST-TLC — Ostric Track Lights. Specifications: 30W · 3000K, 4000K · 1x20 Pcs · Black & White.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-TLC",
+   "wattage": "30W",
+   "price_list": "Ostric June 2026",
+   "specifications": "30W · 3000K, 4000K · 1x20 Pcs · Black & White"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWSCTJF54VX8J7H5M4F5D",
+    "title": "Default",
+    "sku": "OSTTLC-30W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 190000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK4JFKEZMGY424X2FNWF",
+    "name": "Ostric Track Lights",
+    "handle": "ostric-track-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWZCSB26FCZ13ZN4X76Z6",
+  "title": "Ostric OST-UD12 12W Pool/Fountain Light",
+  "handle": "ostric-ost-ud12-12w-pool-fountain-light",
+  "subtitle": "Ostric OST-UD12 12W — 12W",
+  "description": "Ostric OST-UD12 — Ostric Pool & Fountain Lights. Fountain · Metal Body. Specifications: 12W · 3000K · 24V DC · 1x20 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-UD12",
+   "wattage": "12W",
+   "price_list": "Ostric June 2026",
+   "specifications": "12W · 3000K · 24V DC · 1x20 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWZDTTD1QHNB8GY1E5VDT",
+    "title": "Default",
+    "sku": "OSTUD12-12W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 350000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKHXT1WWFXFGEBHEM0B8",
+    "name": "Ostric Pool & Fountain Lights",
+    "handle": "ostric-pool-fountain-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWTNGJ0F6XZ5NMRMPCVRF",
+  "title": "Ostric OST-WB 21 20W Batten Light (2 Ft)",
+  "handle": "ostric-ost-wb-21-20w-batten-light-2-ft",
+  "subtitle": "Ostric OST-WB 21 20W — 20W",
+  "description": "Ostric OST-WB 21 — Ostric Batten Lights (Metal). Specifications: 20W · 2Ft · 6500K · 1x30 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "2 Ft",
+   "brand": "Ostric",
+   "article": "OST-WB 21",
+   "wattage": "20W",
+   "price_list": "Ostric June 2026",
+   "specifications": "20W · 2Ft · 6500K · 1x30 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWTQEHR32B0AGG9MWX2CH",
+    "title": "Default",
+    "sku": "OSTWB21-20W-2FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 55000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK8NYX6WBJN10FTCBZNE",
+    "name": "Ostric Batten Lights (Metal)",
+    "handle": "ostric-batten-lights-metal"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWTX87JZV13V9ZKKFVT6S",
+  "title": "Ostric OST-WB 30 30W Batten Light (2 Ft)",
+  "handle": "ostric-ost-wb-30-30w-batten-light-2-ft",
+  "subtitle": "Ostric OST-WB 30 30W — 30W",
+  "description": "Ostric OST-WB 30 — Ostric Batten Lights (Metal). Specifications: 30W · 2Ft · 3000K, 6500K · 1x30 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "2 Ft",
+   "brand": "Ostric",
+   "article": "OST-WB 30",
+   "wattage": "30W",
+   "price_list": "Ostric June 2026",
+   "specifications": "30W · 2Ft · 3000K, 6500K · 1x30 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWTYS4T0CBYN27K6XE8Q9",
+    "title": "Default",
+    "sku": "OSTWB30-30W-2FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 83000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK8NYX6WBJN10FTCBZNE",
+    "name": "Ostric Batten Lights (Metal)",
+    "handle": "ostric-batten-lights-metal"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWV3RS7Y7Z4Q8YDHD1T8Q",
+  "title": "Ostric OST-WB 41 40W Batten Light (4 Ft)",
+  "handle": "ostric-ost-wb-41-40w-batten-light-4-ft",
+  "subtitle": "Ostric OST-WB 41 40W — 40W",
+  "description": "Ostric OST-WB 41 — Ostric Batten Lights (Metal). Specifications: 40W · 4Ft · 3000K, 6500K · 1x30 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "4 Ft",
+   "brand": "Ostric",
+   "article": "OST-WB 41",
+   "wattage": "40W",
+   "price_list": "Ostric June 2026",
+   "specifications": "40W · 4Ft · 3000K, 6500K · 1x30 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWV54ZAF7QQ2CBK08QAKB",
+    "title": "Default",
+    "sku": "OSTWB41-40W-4FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 82000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK8NYX6WBJN10FTCBZNE",
+    "name": "Ostric Batten Lights (Metal)",
+    "handle": "ostric-batten-lights-metal"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWV8ET6HA53QWNMG27CJ9",
+  "title": "Ostric OST-WB 42 40W Batten Light (4 Ft)",
+  "handle": "ostric-ost-wb-42-40w-batten-light-4-ft",
+  "subtitle": "Ostric OST-WB 42 40W — 40W",
+  "description": "Ostric OST-WB 42 — Ostric Batten Lights (Metal). Slim Series. Specifications: 40W · 4Ft · 3000K, 6500K · 1x30 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "4 Ft",
+   "brand": "Ostric",
+   "article": "OST-WB 42",
+   "wattage": "40W",
+   "price_list": "Ostric June 2026",
+   "specifications": "40W · 4Ft · 3000K, 6500K · 1x30 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWV9E3782G4CFNTA9MTWM",
+    "title": "Default",
+    "sku": "OSTWB42-40W-4FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 62000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK8NYX6WBJN10FTCBZNE",
+    "name": "Ostric Batten Lights (Metal)",
+    "handle": "ostric-batten-lights-metal"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWVCEAW5K0W405B81A4W4",
+  "title": "Ostric OST-WB 61 60W Batten Light (4 Ft)",
+  "handle": "ostric-ost-wb-61-60w-batten-light-4-ft",
+  "subtitle": "Ostric OST-WB 61 60W — 60W",
+  "description": "Ostric OST-WB 61 — Ostric Batten Lights (Metal). Specifications: 60W · 4Ft · 3000K, 6500K · 1x30 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "4 Ft",
+   "brand": "Ostric",
+   "article": "OST-WB 61",
+   "wattage": "60W",
+   "price_list": "Ostric June 2026",
+   "specifications": "60W · 4Ft · 3000K, 6500K · 1x30 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWVDHYP91BMJ54JFQSKPD",
+    "title": "Default",
+    "sku": "OSTWB61-60W-4FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 121000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK8NYX6WBJN10FTCBZNE",
+    "name": "Ostric Batten Lights (Metal)",
+    "handle": "ostric-batten-lights-metal"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWVGD8CW1ZH2699JPBF87",
+  "title": "Ostric OST-WB 80 80W Batten Light (4 Ft)",
+  "handle": "ostric-ost-wb-80-80w-batten-light-4-ft",
+  "subtitle": "Ostric OST-WB 80 80W — 80W",
+  "description": "Ostric OST-WB 80 — Ostric Batten Lights (Metal). Specifications: 80W · 4Ft · 6500K · 1x30 Pcs.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "4 Ft",
+   "brand": "Ostric",
+   "article": "OST-WB 80",
+   "wattage": "80W",
+   "price_list": "Ostric June 2026",
+   "specifications": "80W · 4Ft · 6500K · 1x30 Pcs"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWVHHFTV847Y1HYXAEHPK",
+    "title": "Default",
+    "sku": "OSTWB80-80W-4FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 145000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK8NYX6WBJN10FTCBZNE",
+    "name": "Ostric Batten Lights (Metal)",
+    "handle": "ostric-batten-lights-metal"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWR5Q1VC3GFYFK3FKPXRF",
+  "title": "Ostric OST-XT3 10W Laser Blade Light",
+  "handle": "ostric-ost-xt3-10w-laser-blade-light",
+  "subtitle": "Ostric OST-XT3 10W — 10W (5x2W)",
+  "description": "Ostric OST-XT3 — Ostric Laser Blade Lights. Specifications: 10W (5x2W) · 3000K, 4000K · 1x50 Pcs · Black & White.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-XT3",
+   "wattage": "10W",
+   "price_list": "Ostric June 2026",
+   "specifications": "10W (5x2W) · 3000K, 4000K · 1x50 Pcs · Black & White"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWR6RR6RCBCDJZHZHDQJ0",
+    "title": "Default",
+    "sku": "OSTXT3-10W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 85500,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK1F8M8EPH2C0NRSRT2N",
+    "name": "Ostric Laser Blade Lights",
+    "handle": "ostric-laser-blade-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWR9RR50VSNSVBG1T88NQ",
+  "title": "Ostric OST-XT3 20W Laser Blade Light",
+  "handle": "ostric-ost-xt3-20w-laser-blade-light",
+  "subtitle": "Ostric OST-XT3 20W — 20W (10x2W)",
+  "description": "Ostric OST-XT3 — Ostric Laser Blade Lights. Specifications: 20W (10x2W) · 3000K, 4000K · 1x50 Pcs · White.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-XT3",
+   "wattage": "20W",
+   "price_list": "Ostric June 2026",
+   "specifications": "20W (10x2W) · 3000K, 4000K · 1x50 Pcs · White"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWRAVMWTE6CM1ZCDCBES6",
+    "title": "Default",
+    "sku": "OSTXT3-20W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 131000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK1F8M8EPH2C0NRSRT2N",
+    "name": "Ostric Laser Blade Lights",
+    "handle": "ostric-laser-blade-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWREBSJXFXN6EMF93Z4AV",
+  "title": "Ostric OST-XT3 30W Laser Blade Light",
+  "handle": "ostric-ost-xt3-30w-laser-blade-light",
+  "subtitle": "Ostric OST-XT3 30W — 30W (15x2W)",
+  "description": "Ostric OST-XT3 — Ostric Laser Blade Lights. Specifications: 30W (15x2W) · 3000K, 4000K · 1x40 Pcs · White.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "OST-XT3",
+   "wattage": "30W",
+   "price_list": "Ostric June 2026",
+   "specifications": "30W (15x2W) · 3000K, 4000K · 1x40 Pcs · White"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWRFDK880F393MAXW6QXS",
+    "title": "Default",
+    "sku": "OSTXT3-30W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 211000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWK1F8M8EPH2C0NRSRT2N",
+    "name": "Ostric Laser Blade Lights",
+    "handle": "ostric-laser-blade-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWZZZ77KJDEA68H37WG1T",
+  "title": "Ostric Profile Housing 101 Linear/Profile Light (10 Ft)",
+  "handle": "ostric-profile-housing-101-linear-profile-light-10-ft",
+  "subtitle": "Ostric Profile Housing 101 — 7.8mm",
+  "description": "Ostric Profile Housing 101 — Ostric Linear & Profile Lights. Specifications: 7.8mm · 10Ft · Silver, Without Collar.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "10 Ft",
+   "brand": "Ostric",
+   "article": "Profile Housing 101",
+   "wattage": null,
+   "price_list": "Ostric June 2026",
+   "specifications": "7.8mm · 10Ft · Silver, Without Collar"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX011D5R0EJ3SYJ6GJ7CV",
+    "title": "Default",
+    "sku": "PROFILEHOUSING101-10FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 80500,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKJTGJF18AF3AQTN82ZC",
+    "name": "Ostric Linear & Profile Lights",
+    "handle": "ostric-linear-profile-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX03SVNSQPNH9WXDVA1H9",
+  "title": "Ostric Profile Housing 1010 Linear/Profile Light (10 Ft)",
+  "handle": "ostric-profile-housing-1010-linear-profile-light-10-ft",
+  "subtitle": "Ostric Profile Housing 1010 — 10mm",
+  "description": "Ostric Profile Housing 1010 — Ostric Linear & Profile Lights. Specifications: 10mm · 10Ft · Silver, Without Collar. (Listed as Rs. 800 / Rs. 850.)",
+  "thumbnail": null,
+  "metadata": {
+   "size": "10 Ft",
+   "brand": "Ostric",
+   "article": "Profile Housing 1010",
+   "wattage": null,
+   "price_list": "Ostric June 2026",
+   "specifications": "10mm · 10Ft · Silver, Without Collar",
+   "price_range_note": "Rs. 800 / Rs. 850"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX04TK81E6SKY2NZ58N3D",
+    "title": "Default",
+    "sku": "PROFILEHOUSING1010-10FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 85000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKJTGJF18AF3AQTN82ZC",
+    "name": "Ostric Linear & Profile Lights",
+    "handle": "ostric-linear-profile-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX07V2F2PYZ1PS3HGSGT0",
+  "title": "Ostric Profile Housing 204 Linear/Profile Light (10 Ft)",
+  "handle": "ostric-profile-housing-204-linear-profile-light-10-ft",
+  "subtitle": "Ostric Profile Housing 204 — 17mm",
+  "description": "Ostric Profile Housing 204 — Ostric Linear & Profile Lights. Specifications: 17mm · 10Ft · Silver / Black, With Collar.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "10 Ft",
+   "brand": "Ostric",
+   "article": "Profile Housing 204",
+   "wattage": null,
+   "price_list": "Ostric June 2026",
+   "specifications": "17mm · 10Ft · Silver / Black, With Collar"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX099BDE91Y7J239M02V2",
+    "title": "Default",
+    "sku": "PROFILEHOUSING204-10FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 80000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKJTGJF18AF3AQTN82ZC",
+    "name": "Ostric Linear & Profile Lights",
+    "handle": "ostric-linear-profile-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX0BYYZW84SX33AYQH690",
+  "title": "Ostric Profile Housing 205 Linear/Profile Light (10 Ft)",
+  "handle": "ostric-profile-housing-205-linear-profile-light-10-ft",
+  "subtitle": "Ostric Profile Housing 205 — 17mm",
+  "description": "Ostric Profile Housing 205 — Ostric Linear & Profile Lights. Specifications: 17mm · 10Ft · Silver / Black, With Collar. (Listed as Rs. 800 / Rs. 900.)",
+  "thumbnail": null,
+  "metadata": {
+   "size": "10 Ft",
+   "brand": "Ostric",
+   "article": "Profile Housing 205",
+   "wattage": null,
+   "price_list": "Ostric June 2026",
+   "specifications": "17mm · 10Ft · Silver / Black, With Collar",
+   "price_range_note": "Rs. 800 / Rs. 900"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX0D19P4YFDZ32EJD30FG",
+    "title": "Default",
+    "sku": "PROFILEHOUSING205-10FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 90000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKJTGJF18AF3AQTN82ZC",
+    "name": "Ostric Linear & Profile Lights",
+    "handle": "ostric-linear-profile-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX0FY97HX0Q1Y7R2VSGW6",
+  "title": "Ostric Profile Housing 205-1B Linear/Profile Light (10 Ft)",
+  "handle": "ostric-profile-housing-205-1b-linear-profile-light-10-ft",
+  "subtitle": "Ostric Profile Housing 205-1B — 23mm",
+  "description": "Ostric Profile Housing 205-1B — Ostric Linear & Profile Lights. Specifications: 23mm · 10Ft · Silver, With Collar.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "10 Ft",
+   "brand": "Ostric",
+   "article": "Profile Housing 205-1B",
+   "wattage": null,
+   "price_list": "Ostric June 2026",
+   "specifications": "23mm · 10Ft · Silver, With Collar"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX0GYH1M2616VGF36Q8XX",
+    "title": "Default",
+    "sku": "PROFILEHOUSING2051B-10FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 125000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKJTGJF18AF3AQTN82ZC",
+    "name": "Ostric Linear & Profile Lights",
+    "handle": "ostric-linear-profile-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSX0KP9DTJ1MNSKXHB3NG1",
+  "title": "Ostric Profile Housing 3520 Linear/Profile Light (10 Ft)",
+  "handle": "ostric-profile-housing-3520-linear-profile-light-10-ft",
+  "subtitle": "Ostric Profile Housing 3520 — 35mm",
+  "description": "Ostric Profile Housing 3520 — Ostric Linear & Profile Lights. Specifications: 35mm · 10Ft · Silver, With Collar.",
+  "thumbnail": null,
+  "metadata": {
+   "size": "10 Ft",
+   "brand": "Ostric",
+   "article": "Profile Housing 3520",
+   "wattage": null,
+   "price_list": "Ostric June 2026",
+   "specifications": "35mm · 10Ft · Silver, With Collar"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSX0MPR84ZTMRCPGTCJ85K",
+    "title": "Default",
+    "sku": "PROFILEHOUSING3520-10FT",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 295000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKJTGJF18AF3AQTN82ZC",
+    "name": "Ostric Linear & Profile Lights",
+    "handle": "ostric-linear-profile-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWZVQAKSF0FK8PQAQHWZN",
+  "title": "Ostric Profile Strip Light 20W Linear/Profile Light",
+  "handle": "ostric-profile-strip-light-20w-linear-profile-light",
+  "subtitle": "Ostric Profile Strip Light 20W — 20W/M",
+  "description": "Ostric Profile Strip Light — Ostric Linear & Profile Lights. Specifications: 20W/M · 240 LED/m · 10mm PCB · 24V DC · 10M.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "Profile Strip Light",
+   "wattage": "20W",
+   "price_list": "Ostric June 2026",
+   "specifications": "20W/M · 240 LED/m · 10mm PCB · 24V DC · 10M"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWZWXQKT8SPXDECG7VD43",
+    "title": "Default",
+    "sku": "PROFILESTRIPLIGHT-20W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 239000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKJTGJF18AF3AQTN82ZC",
+    "name": "Ostric Linear & Profile Lights",
+    "handle": "ostric-linear-profile-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BSWZNQ12WHT0F2V69THBE3",
+  "title": "Ostric Profile Strip Light 8W Linear/Profile Light",
+  "handle": "ostric-profile-strip-light-8w-linear-profile-light",
+  "subtitle": "Ostric Profile Strip Light 8W — 8W/M",
+  "description": "Ostric Profile Strip Light — Ostric Linear & Profile Lights. Specifications: 8W/M · 120 LED/m · 8mm PCB · 220V AC · 10M.",
+  "thumbnail": null,
+  "metadata": {
+   "size": null,
+   "brand": "Ostric",
+   "article": "Profile Strip Light",
+   "wattage": "8W",
+   "price_list": "Ostric June 2026",
+   "specifications": "8W/M · 120 LED/m · 8mm PCB · 220V AC · 10M"
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BSWZR2PY50JRH1E6MNBBRK",
+    "title": "Default",
+    "sku": "PROFILESTRIPLIGHT-8W",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 50,
+    "calculated_price": {
+     "calculated_amount": 165000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BSWKJTGJF18AF3AQTN82ZC",
+    "name": "Ostric Linear & Profile Lights",
+    "handle": "ostric-linear-profile-lights"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BRWCNTQRCPEN9NHXDDPH5S",
+  "title": "PowerCell 5kWh LiFePO4 Lithium Battery",
+  "handle": "powercell-5kwh-lifepo4-lithium-battery",
+  "subtitle": "5kWh lithium iron phosphate battery — 6000 cycles, wall-mount, for hybrid inverters.",
+  "description": "A 5kWh LiFePO4 lithium battery with built-in BMS. Up to 6000 charge cycles — roughly 10x the life of lead-acid — in half the weight and size. Pairs perfectly with 48V hybrid inverters.",
+  "thumbnail": null,
+  "metadata": {
+   "brand": "PowerCell",
+   "model": "PC-LFP51.2-100",
+   "warranty": "5 years official warranty",
+   "weight_kg": 48,
+   "specifications": {
+    "Voltage": "51.2 V",
+    "Capacity": "5.12 kWh",
+    "Mounting": "Wall-mount / rack",
+    "Chemistry": "LiFePO4",
+    "Cycle life": "6000 cycles @ 80% DoD"
+   }
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BRWCQQPGENR727DP7FC0B8",
+    "title": "Default",
+    "sku": "PWC-LFP-5KWH",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 0,
+    "calculated_price": {
+     "calculated_amount": 39500000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BRCRHJHH4TGW6MXDN6GCC5",
+    "name": "Batteries",
+    "handle": "batteries"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BRWCY840ZP1KYHRXJE2AFQ",
+  "title": "SunHarvest 550W Mono PERC Solar Panel",
+  "handle": "sunharvest-550w-mono-perc-solar-panel",
+  "subtitle": "550W mono PERC half-cell solar panel — high efficiency for rooftop systems.",
+  "description": "550W monocrystalline PERC solar panel with half-cell technology for better shade tolerance and lower heat losses. A workhorse for residential rooftop installations across Pakistan.",
+  "thumbnail": null,
+  "metadata": {
+   "brand": "SunHarvest",
+   "model": "SH-550M-PERC",
+   "warranty": "12 years product, 25 years performance warranty",
+   "weight_kg": 28,
+   "specifications": {
+    "Frame": "Anodized aluminium",
+    "Power": "550 W",
+    "Cell type": "Mono PERC half-cell",
+    "Efficiency": "21.3%"
+   }
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BRWD0ERV8D9S9RMZVFNFNE",
+    "title": "Default",
+    "sku": "SH-550M",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 0,
+    "calculated_price": {
+     "calculated_amount": 4850000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BRCRGRGHEYAD2Y1PH1N1PM",
+    "name": "Solar Panels",
+    "handle": "solar-panels"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BRWD68E9KK8P152T0ZZKZW",
+  "title": "SunHarvest 585W N-Type Bifacial Solar Panel",
+  "handle": "sunharvest-585w-n-type-bifacial-solar-panel",
+  "subtitle": "585W N-type bifacial panel — captures light from both sides for extra yield.",
+  "description": "585W N-type bifacial solar panel. The glass-glass bifacial design harvests reflected light from the rear side too, delivering up to 15% extra energy on reflective rooftops.",
+  "thumbnail": null,
+  "metadata": {
+   "brand": "SunHarvest",
+   "model": "SH-585N-BF",
+   "warranty": "15 years product, 30 years performance warranty",
+   "weight_kg": 32,
+   "specifications": {
+    "Power": "585 W",
+    "Cell type": "N-type TOPCon bifacial",
+    "Efficiency": "22.6%",
+    "Bifacial gain": "Up to 15%"
+   }
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BRWD7SE2Q51MWZVCP3BD0B",
+    "title": "Default",
+    "sku": "SH-585N-BF",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 0,
+    "calculated_price": {
+     "calculated_amount": 5600000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BRCRGRGHEYAD2Y1PH1N1PM",
+    "name": "Solar Panels",
+    "handle": "solar-panels"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BRWFP7AJD2ZXVRXQ9N42CG",
+  "title": "SwitchPro 4-Gang Smart Switch Plate",
+  "handle": "switchpro-4-gang-smart-switch-plate",
+  "subtitle": "4-gang WiFi smart switch — control fans and lights from your phone.",
+  "description": "4-gang smart switch plate with WiFi control. Switch fans and lights from your phone or with voice assistants, set timers and schedules, and fit it into standard switch boxes.",
+  "thumbnail": null,
+  "metadata": {
+   "brand": "SwitchPro",
+   "model": "SP-4G-WIFI",
+   "warranty": "1 year replacement warranty",
+   "weight_kg": 0.3,
+   "specifications": {
+    "Gangs": "4",
+    "Rating": "10 A per gang",
+    "Connectivity": "WiFi 2.4 GHz",
+    "Voice control": "Alexa / Google Assistant"
+   }
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BRWFQM6CCDCMV9QNACYVF7",
+    "title": "Default",
+    "sku": "SP-4G-SM",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 0,
+    "calculated_price": {
+     "calculated_amount": 345000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BRCRRCG5M7YKEG1JRX1PAJ",
+    "name": "Switches",
+    "handle": "switches"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BRWC7CXQ5FM7WC290BB9C7",
+  "title": "VoltCore 3kW On-Grid Solar Inverter",
+  "handle": "voltcore-3kw-on-grid-solar-inverter",
+  "subtitle": "3kW on-grid solar inverter for net-metering systems.",
+  "description": "A 3kW on-grid solar inverter designed for net-metering installations. High conversion efficiency keeps your electricity bill low, and the compact wall-mount design suits homes and shops.",
+  "thumbnail": null,
+  "metadata": {
+   "brand": "VoltCore",
+   "model": "VC-3000ONG",
+   "warranty": "5 years official warranty",
+   "weight_kg": 16,
+   "specifications": {
+    "Net metering": "Supported",
+    "Rated output": "3 kW",
+    "MPPT trackers": "2",
+    "Max efficiency": "97.6%"
+   }
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BRWC9793YMTAGA5QDJM8DK",
+    "title": "Default",
+    "sku": "VC-ONG-3K",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 0,
+    "calculated_price": {
+     "calculated_amount": 16500000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BRCREHW76GQX55FFJM8GZH",
+    "name": "Solar Inverters",
+    "handle": "solar-inverters"
+   }
+  ],
+  "images": []
+ },
+ {
+  "id": "prod_01M3BRWBY3KGGNM2T10M3R0G24",
+  "title": "VoltCore 5kW Hybrid Solar Inverter",
+  "handle": "voltcore-5kw-hybrid-solar-inverter",
+  "subtitle": "5kW hybrid solar inverter with 80A MPPT, 48V battery support and WiFi monitoring.",
+  "description": "The VoltCore VC-5000HYB is a 5kW hybrid solar inverter built for Pakistani homes and small businesses. It blends solar, grid and battery power automatically, delivers pure sine wave output, and can be monitored from your phone over WiFi. Ideal for running air conditioners, refrigerators and full home loads during load-shedding.",
+  "thumbnail": null,
+  "metadata": {
+   "brand": "VoltCore",
+   "model": "VC-5000HYB",
+   "warranty": "5 years official warranty",
+   "weight_kg": 28,
+   "specifications": {
+    "Display": "LCD + WiFi monitoring",
+    "MPPT current": "80 A",
+    "Rated output": "5 kW",
+    "Battery voltage": "48 V",
+    "Output waveform": "Pure sine wave",
+    "Parallel support": "Up to 6 units"
+   }
+  },
+  "variants": [
+   {
+    "id": "variant_01M3BRWC0S444PFKVM2KW5MY54",
+    "title": "Default",
+    "sku": "VC-HYB-5K",
+    "metadata": {},
+    "allow_backorder": false,
+    "manage_inventory": true,
+    "inventory_quantity": 0,
+    "calculated_price": {
+     "calculated_amount": 28500000,
+     "currency_code": "pkr"
+    }
+   }
+  ],
+  "categories": [
+   {
+    "id": "pcat_01M3BRCRFS8AAT3BJRS8MC32XC",
+    "name": "Hybrid Inverters",
+    "handle": "hybrid-inverters"
+   }
+  ],
+  "images": []
+ }
+]
