@@ -1,6 +1,7 @@
 import "server-only";
 import { mapMedusaProductToAi } from "./ai-api";
 import { storeFetch } from "./commerce";
+import { fixtureProducts } from "./fixtures";
 import { absoluteUrl } from "./format";
 
 /**
@@ -46,46 +47,73 @@ export async function getFeedItems(): Promise<FeedItem[]> {
   const limit = 100;
   let offset = 0;
 
-  for (;;) {
-    const res = await storeFetch<{
-      products: Parameters<typeof mapMedusaProductToAi>[0][];
-      count: number;
-    }>("/store/products", {
-      params: {
-        limit,
-        offset,
-        fields:
-          "id,title,handle,subtitle,description,thumbnail,images.url,variants.id,variants.sku,variants.prices,metadata,categories.id,categories.name",
-      },
-      tags: ["products"],
-      revalidate: 600,
-    });
-    const batch = res.products ?? [];
-    for (const raw of batch) {
-      const p = mapMedusaProductToAi(raw);
-      const desc =
-        stripHtml(raw.description ?? "").slice(0, 5000) ||
-        p.shortDescription ||
-        p.name;
-      items.push({
-        id: p.id,
-        sku: p.sku,
-        title: p.name.slice(0, 200),
-        description: desc,
-        link: p.url,
-        imageLink: p.image,
-        price: p.salePrice ?? p.price,
-        currency: p.currency,
-        availability: p.availability,
-        brand: p.brand,
-        model: p.model,
-        category: raw.categories?.[0]?.name ?? null,
-        condition: "new",
+  try {
+    for (;;) {
+      const res = await storeFetch<{
+        products: Parameters<typeof mapMedusaProductToAi>[0][];
+        count: number;
+      }>("/store/products", {
+        params: {
+          limit,
+          offset,
+          fields:
+            "id,title,handle,subtitle,description,thumbnail,images.url,variants.id,variants.sku,variants.prices,metadata,categories.id,categories.name",
+        },
+        tags: ["products"],
+        revalidate: 600,
       });
+      const batch = res.products ?? [];
+      for (const raw of batch) {
+        const p = mapMedusaProductToAi(raw);
+        const desc =
+          stripHtml(raw.description ?? "").slice(0, 5000) ||
+          p.shortDescription ||
+          p.name;
+        items.push({
+          id: p.id,
+          sku: p.sku,
+          title: p.name.slice(0, 200),
+          description: desc,
+          link: p.url,
+          imageLink: p.image,
+          price: p.salePrice ?? p.price,
+          currency: p.currency,
+          availability: p.availability,
+          brand: p.brand,
+          model: p.model,
+          category: raw.categories?.[0]?.name ?? null,
+          condition: "new",
+        });
+      }
+      offset += batch.length;
+      if (batch.length < limit || offset >= (res.count ?? 0)) break;
+      if (offset >= 5000) break; // safety cap per build
     }
-    offset += batch.length;
-    if (batch.length < limit || offset >= (res.count ?? 0)) break;
-    if (offset >= 5000) break; // safety cap per build
+    if (items.length > 0) return items;
+    // fall through to fixtures if Medusa returned nothing
+  } catch {
+    // fall through to fixtures when the backend is unreachable
+  }
+  // Fixture fallback: feeds stay up even with no backend.
+  for (const p of fixtureProducts) {
+    items.push({
+      id: p.id,
+      sku: p.sku ?? null,
+      title: p.title.slice(0, 200),
+      description:
+        stripHtml(p.description ?? "").slice(0, 5000) ||
+        p.shortDescription ||
+        p.title,
+      link: absoluteUrl(`/product/${p.handle}`),
+      imageLink: p.thumbnail ?? p.images[0]?.url ?? null,
+      price: p.salePrice ?? p.price,
+      currency: p.currency,
+      availability: p.inStock ? "in_stock" : "out_of_stock",
+      brand: p.brand ?? null,
+      model: p.model ?? null,
+      category: p.category?.name ?? null,
+      condition: "new",
+    });
   }
   return items;
 }
