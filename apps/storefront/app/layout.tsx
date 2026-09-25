@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import CartDrawer from "@/components/CartDrawer";
 import CartProvider from "@/components/CartProvider";
 import Footer from "@/components/Footer";
@@ -34,6 +34,12 @@ export const metadata: Metadata = {
       "Solar, inverters, batteries, LED lights, fans & switches — online in Pakistan.",
   },
   robots: { index: true, follow: true },
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
 };
 
 export default function RootLayout({
