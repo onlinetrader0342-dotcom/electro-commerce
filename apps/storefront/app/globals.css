@@ -34,6 +34,7 @@ html {
 
 body {
   @apply bg-white text-slate-800 antialiased;
+  overflow-x: clip;
 }
 
 ::selection {
