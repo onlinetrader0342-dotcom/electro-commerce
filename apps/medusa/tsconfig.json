@@ -1,0 +1,1 @@
+{"compilerOptions":{"allowJs":true,"baseUrl":".","esModuleInterop":true,"lib":["ES2022"],"module":"NodeNext","moduleResolution":"NodeNext","paths":{"@/*":["./src/*"]},"skipLibCheck":true,"strict":true,"target":"ES2022"},"exclude":["node_modules","dist",".medusa"],"include":["src","medusa-config.ts"]}
