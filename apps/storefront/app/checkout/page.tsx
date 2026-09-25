@@ -308,7 +308,7 @@ export default function CheckoutPage() {
       ) : (
         <form onSubmit={handleValidate}>
           <div className="grid gap-8 lg:grid-cols-3">
-            <div className="space-y-6 lg:col-span-2">
+            <div className="min-w-0 space-y-6 lg:col-span-2">
               <section className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
                 <h2 className="mb-4 text-lg font-bold text-brand-900">
                   Shipping details
@@ -363,13 +363,13 @@ export default function CheckoutPage() {
                   {methods.map((m) => (
                     <label
                       key={m.id}
-                      className={`flex cursor-pointer items-center justify-between gap-4 rounded-lg border p-3 ${
+                      className={`flex min-w-0 cursor-pointer items-center justify-between gap-4 rounded-lg border p-3 ${
                         shippingMethodId === m.id
                           ? "border-brand-600 bg-brand-50"
                           : "border-slate-200"
                       }`}
                     >
-                      <span className="flex items-center gap-3">
+                      <span className="flex min-w-0 items-center gap-3">
                         <input
                           type="radio"
                           name="shippingMethod"
@@ -415,7 +415,7 @@ export default function CheckoutPage() {
               </section>
             </div>
 
-            <aside className="h-fit rounded-xl border border-slate-200 bg-white p-6 shadow-sm lg:sticky lg:top-4">
+            <aside className="h-fit min-w-0 rounded-xl border border-slate-200 bg-white p-6 shadow-sm lg:sticky lg:top-4">
               <h2 className="mb-4 text-lg font-bold text-brand-900">
                 Cart ({items.reduce((s, i) => s + i.qty, 0)})
               </h2>
