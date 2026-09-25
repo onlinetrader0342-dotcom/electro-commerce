@@ -32,7 +32,7 @@ export default function CartPage() {
         </div>
       ) : (
         <div className="mt-8 grid gap-8 lg:grid-cols-[1fr_340px]">
-          <div>
+          <div className="min-w-0">
             <ul className="divide-y divide-slate-200 rounded-2xl border border-slate-200 bg-white">
               {lines.map((l) => (
                 <li key={l.id} className="flex gap-4 p-4 sm:p-5">
@@ -44,9 +44,9 @@ export default function CartPage() {
                       <Image src={l.thumbnail} alt={l.title} fill sizes="96px" className="object-cover" />
                     )}
                   </Link>
-                  <div className="flex flex-1 flex-col">
+                  <div className="flex min-w-0 flex-1 flex-col">
                     <div className="flex items-start justify-between gap-3">
-                      <div>
+                      <div className="min-w-0">
                         {l.brand && (
                           <p className="text-xs font-bold uppercase tracking-wide text-brand-600">{l.brand}</p>
                         )}
