@@ -86,6 +86,9 @@ async function request<T>(
   let res: Response;
   try {
     res = await fetch(buildUrl(path, params), {
+      // Fail fast when the backend sleeps/is unreachable; callers map this
+      // to 503. An explicitly passed signal still wins via ...init.
+      signal: AbortSignal.timeout(15000),
       ...init,
       headers,
       ...(tags !== undefined || revalidate !== undefined
