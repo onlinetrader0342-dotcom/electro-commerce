@@ -1,0 +1,36 @@
+name: electro-commerce
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: electro
+      POSTGRES_PASSWORD: electro
+      POSTGRES_DB: electro_commerce
+    ports:
+      - "5432:5432"
+    volumes:
+      - electro_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U electro -d electro_commerce"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 5s
+
+volumes:
+  electro_pgdata:
+    name: electro_pgdata
