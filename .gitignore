@@ -1,0 +1,39 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# env & secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# builds
+dist/
+build/
+.next/
+out/
+.medusa/
+
+# logs / os
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# test / coverage
+coverage/
+.nyc_output/
+.env*
+
+# infra: keep scripts + README, never commit binaries/backups
+.infra/pginstall/
+.infra/backups/
+.infra/redis/
+.infra/pgsock/
