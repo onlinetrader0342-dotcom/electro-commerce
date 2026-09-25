@@ -37,3 +37,4 @@ coverage/
 .infra/backups/
 .infra/redis/
 .infra/pgsock/
+.infra/render-notes.md
